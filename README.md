@@ -4,6 +4,7 @@
   
 <h3 align="center"> Data Science Enthusiast | Microsoft Student Partner <img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px"> | ML enthusiast</h3>
   
+</div>
 
 - 🔭 I’m currently working on my **Data Science** skills (https://www.github.com/isanghamitra/100-Days-of-Code)
 - 👯 Looking to collaborate on **Open Source Projects related to Data Analysis and Visualization**
@@ -30,6 +31,6 @@
 -->
 <br>
 <hr>
-
+<div  align="center">
 ![Mursal's github stats](https://github-readme-stats.vercel.app/api?username=mursalfk&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)
 </div>
