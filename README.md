@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/mursalfurqan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/mursalfk" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/mursal.furqan" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> 
-<a href="https://dev.to/mursalfk" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a> <br>
+<a href="https://dev.to/mursalfk" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 <!--
 * [Email](mailto:mursalfurqan@gmail.com)
 * [Youtube](https://www.youtube.com/channel/UCpe8Kkw3fXTF0J19ZIazf_Q?view_as=subscriber)
@@ -32,7 +32,6 @@
 * [Dev.to](https://dev.to/mursalfk)
 * [Visit my website](mursalfurqan.com)
 -->
-<br>
 <hr>
 
 ![Mursal's github stats](https://github-readme-stats.vercel.app/api?username=mursalfk&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)
