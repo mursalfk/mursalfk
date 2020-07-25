@@ -1,9 +1,10 @@
+[![HitCount](http://hits.dwyl.com/mursalfk/mursalfk.svg)](http://hits.dwyl.com/mursalfk/mursalfk)
+
 <div  align="center">
-<h1 align="center">Hello | سلام | नमस्ते <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><br> I'm Mursal Furqan <br>
-  <h4 align="center">Welcome To my <i><b> GitHub Profile </b></i></h4>
-  
+<h1 align="center">Hello | سلام | नमस्ते <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><br> I'm Mursal Furqan <br></h1>  
 <h3 align="center"> Data Science Enthusiast | Microsoft Student Partner <img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px"> | ML enthusiast</h3>
-  
+ <hr>
+    <h2 align="center">Welcome To my <i><b> GitHub Profile </b></i></h2>
 </div>
 
 - 🔭 I’m currently working on my **Data Science** skills
@@ -36,3 +37,4 @@
 
 ![Mursal's github stats](https://github-readme-stats.vercel.app/api?username=mursalfk&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)
 </div>
+
