@@ -14,12 +14,11 @@
 
 - 💬 Ask me about **Data Analysis and Visualization**
 
-- 📫 Reach me at:
-<a href="https://www.linkedin.com/in/mursalfurqan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/mursalfk" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/mursal.furqan" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://dev.to/mursalfk" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-<a href="https://www.youtube.com/channel/UCpe8Kkw3fXTF0J19ZIazf_Q?view_as=subscriber" target="_blank"><img src="https://img.shields.io/badge/YouTube-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+- 📫 Reach me at: <br>
+<a href="https://www.linkedin.com/in/mursalfurqan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <br>
+<a href="https://www.instagram.com/mursalfk" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> <br>
+<a href="https://www.facebook.com/mursal.furqan" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> <br>
+<a href="https://dev.to/mursalfk" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a> <br>
 <!--
 * [Email](mailto:mursalfurqan@gmail.com)
 * [Youtube](https://www.youtube.com/channel/UCpe8Kkw3fXTF0J19ZIazf_Q?view_as=subscriber)
