@@ -34,8 +34,7 @@
 * [Dev.to](https://dev.to/mursalfk)
 * [Visit my website](mursalfurqan.com)
 -->
-<hr>
-
+<!-- <hr> -->
 <!-- ![Mursal's github stats](https://github-readme-stats.vercel.app/api?username=mursalfk&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515) -->
 
 ![Mursal's github stats](https://github-readme-stats.vercel.app/api?username=mursalfk&show_icons=true)
