@@ -12,13 +12,14 @@
 </div>
 
 - 🔭 I’m currently working on my **Data Science** skills
-
 - 👯 Looking to collaborate on **Open Source Projects related to Data Analysis and Visualization**
-
 - 🤔 I’m looking for help with **mentorship for Machine Learning**
-
 <!-- - 👩‍💻 My **skills** are 👇 -->
 - 💬 Ask me about **Data Analysis and Visualization**
+
+<h3>Connect with me:</h3>
+
+&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://mursalfurqan.com" target="_blank"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" height=30px width=30px alt="Web"></a>  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/mursalfurqan" target="_blank"><img src="https://camo.githubusercontent.com/eacc870029bca30353239d9d629076ba4c18de75/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f747769747465722e737667" height=30px width=30px alt="Twitter"></a>&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://www.linkedin.com/in/mursalfurqan/" target="_blank"><img src="https://camo.githubusercontent.com/b65faae8871ebbdb99790f2644ea7f3c89800b0c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" height=30px width=30px alt="LinkedIn"></a>  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/mursalfk/" target="_blank"><img src="https://camo.githubusercontent.com/8ea1156d8ac160172cbef7a54a19bad16a73ebe4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" height=30px width=30px alt="Insta"></a>
 
 - 📫 Reach me at: <br>
 <div  align="center">
