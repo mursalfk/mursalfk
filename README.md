@@ -1,4 +1,6 @@
-[![HitCount](http://hits.dwyl.com/mursalfk/mursalfk.svg)](http://hits.dwyl.com/mursalfk/mursalfk)
+<a hred="https://sourcerer.io/mursalfk">![Sorcerer.io](https://sourcerer.io/icons/logo-bright.svg "Logo")</a>
+
+<!-- [![HitCount](http://hits.dwyl.com/mursalfk/mursalfk.svg)](http://hits.dwyl.com/mursalfk/mursalfk) -->
 <div  align="center"><h2   align="center">
 خوش آمدید
  </h2></div>
