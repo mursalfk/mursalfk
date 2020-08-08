@@ -6,7 +6,7 @@
  </h2></div>
 <div  align="center">
 <h1 align="center">Hello | سلام | नमस्ते <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><br> I'm Mursal Furqan <br></h1>  
-<h3 align="center"> Data Science Enthusiast | Microsoft Student Partner <img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px"> | ML enthusiast</h3>
+<h3 align="center"> Data Science Enthusiast | Microsoft Learn Student Ambassador <img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px"> | ML enthusiast</h3>
  <hr>
     <h2 align="center">Welcome To my <i><b> GitHub Profile </b></i></h2>
 </div>
