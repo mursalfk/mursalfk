@@ -1,4 +1,4 @@
-<a href="https://sourcerer.io/mursalfk">
+<a href="https://sourcerer.io/mursalfk" target="_blank">
 <img src="https://sourcerer.io/icons/logo-bright.svg">
 </a>
 
