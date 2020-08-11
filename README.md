@@ -11,7 +11,7 @@
  <p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="80px" width="80px">  <img src="https://octodex.github.com/images/Robotocat.png" height="80px" width="80px"> -->
  
 <h1 align="center">Hello | سلام | नमस्ते <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><br> I'm Mursal Furqan <br></h1>  
-<h4 align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px"> Data Science Enthusiast | Microsoft Learn Student Ambassador <img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px"> | ML enthusiast <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px"></h4>
+<h2 align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px"> Data Science Enthusiast | Microsoft Learn Student Ambassador <img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px"> | ML enthusiast <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px"></h2>
  <hr>
     <h2 align="center">Welcome To my <i><b> GitHub Profile </b></i></h2>
 </div>
