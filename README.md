@@ -49,5 +49,4 @@
 ![Mursal's github stats](https://github-readme-stats.vercel.app/api?username=mursalfk&show_icons=true)
 
 </div>
-
 <img src=https://komarev.com/ghpvc/?username=mursalfk alt=mursalfk/>
