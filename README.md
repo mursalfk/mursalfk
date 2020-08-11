@@ -1,6 +1,6 @@
 <a href="https://sourcerer.io/mursalfk" target="_blank">
 <img src="https://sourcerer.io/icons/logo-bright.svg">
-</a><img src=https://komarev.com/ghpvc/?username=mursalfk alt=mursalfk/>
+</a>
 
 <!-- [![HitCount](http://hits.dwyl.com/mursalfk/mursalfk.svg)](http://hits.dwyl.com/mursalfk/mursalfk) -->
 <div  align="center"><h2   align="center">
@@ -50,3 +50,4 @@
 
 </div>
 
+<img src=https://komarev.com/ghpvc/?username=mursalfk alt=mursalfk/>
