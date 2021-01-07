@@ -1,6 +1,4 @@
-<a href="https://sourcerer.io/mursalfk" target="_blank">
-<img src="https://sourcerer.io/icons/logo-bright.svg">
-</a>
+
 <div  align="center">
 
 <h1 align="center">Hello | سلام | नमस्ते <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><br> I'm Mursal Furqan <br></h1>  
