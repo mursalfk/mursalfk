@@ -1,31 +1,23 @@
-
+<!--
 <div  align="center">
-
 <h1 align="center">Hello | سلام | नमस्ते <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><br> I'm Mursal Furqan <br></h1>  
-<h3 align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px"> :heart: Data Science & Machine Learning | Microsoft Learn Student Ambassador <!--<img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px">--> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px"></h3>
+<h3 align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px"> :heart: Data Science & Machine Learning | Microsoft Learn Student Ambassador <!--<img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px"></h3>
  <hr>
     <h2 align="center">Welcome To my <i><b> GitHub Profile </b></i></h2>
 </div>
-
 - 🔭 I’m currently working on my **Data Science** skills
 - 👯 Looking to collaborate on **Open Source Projects related to Data Analysis and Visualization**
 - 🤔 I’m looking for help with **mentorship for Machine Learning**
 - 💬 Ask me about **Data Analysis and Visualization**
-<!-- - 👩‍💻 My **skills** are 👇 -->
+- 👩‍💻 My **skills** are 👇
 <h3>Connect with me:</h3>
-
 &nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://mursalfurqan.com" target="_blank"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" height=30px width=30px alt="Web"></a>  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/mursalfurqan" target="_blank"><img src="https://camo.githubusercontent.com/eacc870029bca30353239d9d629076ba4c18de75/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f747769747465722e737667" height=30px width=30px alt="Twitter"></a>&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://www.linkedin.com/in/mursalfurqan/" target="_blank"><img src="https://camo.githubusercontent.com/b65faae8871ebbdb99790f2644ea7f3c89800b0c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" height=30px width=30px alt="LinkedIn"></a>  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/mursalfk/" target="_blank"><img src="https://camo.githubusercontent.com/8ea1156d8ac160172cbef7a54a19bad16a73ebe4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" height=30px width=30px alt="Insta"></a>
-
-<!--
 - 📫 Reach me at: <br>
-
 <a href="https://www.linkedin.com/in/mursalfurqan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/mursalfk" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/mursal.furqan" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> 
 <a href="https://dev.to/mursalfk" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
--->
 <div  align="center">
-<!--
 * [Email](mailto:mursalfurqan@gmail.com)
 * [Youtube](https://www.youtube.com/channel/UCpe8Kkw3fXTF0J19ZIazf_Q?view_as=subscriber)
 * [Facebook](www.faceb) hhh
@@ -33,16 +25,12 @@
 * [Medium](https://medium.com/@mursalfurqan)
 * [Dev.to](https://dev.to/mursalfk)
 * [Visit my website](mursalfurqan.com)
--->
-<!-- <hr> -->
-<!-- ![Mursal's github stats](https://github-readme-stats.vercel.app/api?username=mursalfk&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515) -->
-
+ <hr> 
+ ![Mursal's github stats](https://github-readme-stats.vercel.app/api?username=mursalfk&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)
 ![Mursal's github stats](https://github-readme-stats.vercel.app/api?username=mursalfk&show_icons=true)
-
 </div>
 <img src=https://komarev.com/ghpvc/?username=mursalfk alt=mursalfk/>
-
-
+-->
 
 
 <img src="img/MSFTStudentambassadors.gif" width="900" height="400"/>
@@ -60,13 +48,13 @@
 
 - 🌱 I’m currently learning **Java and its frameworks, Django(Python)**
 
-- 📫 How to reach me **devansuyadav@gmail.com** or Dm me on **Twitter: https://twitter.com/DevanshYtweets**
+- 📫 How to reach me **mursalfurqan@gmail.com** or Dm me on **Twitter: https://twitter.com/mursalfurqan**
 
 
-- 🔭 I am currently contributing to Open Source, building a 9x9 TicTacToe Game on Django, writing Tech Blogs on <a href = "https://medium.com/@devansuyadav">Medium</a> and learning <a href="https://azure.microsoft.com/en-in/">Azure</a>  
-- 👀 Things I know: <i> Python, C, C++, Basic Front-End, Nodejs, Git/Github, AWS </i> 
+- 🔭 I am currently contributing to Open Source, building some cool daily use applications using React and Django, writing Tech Blogs on <a href = "https://mursalfk.medium.com/">Medium</a> and learning <a href="https://azure.microsoft.com/en-in/">Azure</a>  
+- 👀 Things I know: <i> Python, Django, Extreme Front-End, Azure, Git/Github, GCP, </i> 
 - 👐 I'm looking for: A team for Hackathons 
-- 😍 I ❤️ <i>reading Astronomy Books, 💫Star-gazing, watching Football⚽</i>
+- 😍 I ❤️ <i>reading tech blogs, 💫travelling and building myself</i>
 - 😄 Pronouns: He/Him 
 - 🌙 Fun fact: NASA's Perseverance Rover carries my name😁(👽 could know about me🤣)   
 <br><br>
@@ -75,13 +63,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/devansu-yadav/" target="blank"><img align="center" src="img/linkedin.png" alt="devansu-yadav" height="30" width="30" /></a>&nbsp
-  <a href="https://twitter.com/DevanshYtweets">
+<a href="https://www.linkedin.com/in/mursalfurqan/" target="blank"><img align="center" src="img/linkedin.png" alt="devansu-yadav" height="30" width="30" /></a>&nbsp
+  <a href="https://twitter.com/mursalfurqan">
     <img src="img/twitter.png" alt="Twitter" width="30" height="30"/>
   </a>&nbsp
-<a href="https://www.facebook.com/devansu.yadav.5" target="blank"><img align="center" src="img/facebook.png" alt="devansu.yadav.5" height="30" width="30" /></a>&nbsp
-<a href="https://www.instagram.com/_devansh_609/" target="blank"><img align="center" src="img/instagram.png" alt="_devansh_609" height="30" width="30" /></a>
-<a href="https://medium.com/@devansuyadav" target="blank"><img align="center" src="img/medium.png" alt="devansuyadav" height="30" width="30" /></a>&nbsp
+<a href="https://www.facebook.com/mursal.furqan" target="blank"><img align="center" src="img/facebook.png" alt="devansu.yadav.5" height="30" width="30" /></a>&nbsp
+<a href="https://www.instagram.com/mursalfk/" target="blank"><img align="center" src="img/instagram.png" alt="_devansh_609" height="30" width="30" /></a>
+<a href="https://mursalfk.medium.com/" target="blank"><img align="center" src="img/medium.png" alt="devansuyadav" height="30" width="30" /></a>&nbsp
 
 </p>
 
@@ -93,10 +81,10 @@
 
 ### Languages I have worked with -
 
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansu-Yadav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=mursalfk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  
-![Devansu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devansu-Yadav&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true)
+![Devansu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mursalfk&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true)
 
 
 <p align="center"> 
