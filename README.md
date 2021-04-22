@@ -46,10 +46,9 @@
 
 ## 🧐 About
 
-- 🌱 I’m currently learning **Java and its frameworks, Django(Python)**
+- 🌱 I’m currently learning **React and its frameworks, Django(Python)**
 
 - 📫 How to reach me **mursalfurqan@gmail.com** or Dm me on **Twitter: https://twitter.com/mursalfurqan**
-
 
 - 🔭 I am currently contributing to Open Source, building some cool daily use applications using React and Django, writing Tech Blogs on <a href = "https://mursalfk.medium.com/">Medium</a> and learning <a href="https://azure.microsoft.com/en-in/">Azure</a>  
 - 👀 Things I know: <i> Python, Django, Extreme Front-End, Azure, Git/Github, GCP, </i> 
@@ -76,15 +75,13 @@
 
 <hr \>
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="30"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="30"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="30"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" height="30"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" height="30"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs" height="30"/> <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" height="30"/> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" height="30"/>
-
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"/><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" height="30"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30"/><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" height="30"/><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs" height="30"/><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" height="30"/>
 
 ### Languages I have worked with -
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=mursalfk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- 
-![Devansu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mursalfk&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true)
+![Mursal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mursalfk&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true)
 
 
 <p align="center"> 
