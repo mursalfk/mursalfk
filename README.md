@@ -101,7 +101,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Devansu-Yadav/count.svg"/>
+  <img src="https://profile-counter.glitch.me/mursalfk/count.svg"/>
  </p>
 
 <h4 align="center">Show some ❤️ by starring ⭐ some of the repositories!</h4>
