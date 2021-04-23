@@ -39,21 +39,20 @@
 <h1 align="center"> I'm Mursal Furqan</h1>
 <h2 align="center">I am a Python Programmer (I ❤️ Python)</h2>
 <h2 align="center">I am also an <b>β-Microsoft Learn Student Ambassador</b></h2>
-<h3 align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px"> :heart: Data Science & Machine Learning | Microsoft Learn Student Ambassador <!--<img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px">--> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px"></h3>
+<h3 align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px"> ❤️(Data Science && Machine Learning) <!--<img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px">--> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px"></h3>
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"/>
 
 
 ## 🧐 About
 
-- 🌱 I’m currently learning **React and its frameworks, Django(Python)**
-
-- 📫 How to reach me **mursalfurqan@gmail.com** or Dm me on **Twitter: https://twitter.com/mursalfurqan**
-
+- 🌱 I’m currently learning **React and its frameworks alongwith Django(Python)**
+- 📫 Want to reach me? **mursalfurqan@gmail.com** or DM me on **Twitter: https://twitter.com/mursalfurqan**
 - 🔭 I am currently contributing to Open Source, building some cool daily use applications using React and Django, writing Tech Blogs on <a href = "https://mursalfk.medium.com/">Medium</a> and learning <a href="https://azure.microsoft.com/en-in/">Azure</a>  
 - 👀 Things I know: <i> Python, Django, Extreme Front-End, Azure, Git/Github, GCP, </i> 
-- 👐 I'm looking for: A team for Hackathons 
+- 👐 I'm looking for: A team for Hackathons &  unlimited leaning opportunities
 - 😍 I ❤️ <i>reading tech blogs, 💫travelling and building myself</i>
+- 💌 💝 History 🙏 Everyone
 - 😄 Pronouns: He/Him 
 - 🌙 Fun fact: NASA's Perseverance Rover carries my name😁(👽 could know about me🤣)   
 <br><br>
