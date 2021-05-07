@@ -68,7 +68,9 @@
 <a href="https://www.facebook.com/mursal.furqan" target="blank"><img align="center" src="img/facebook.png" alt="devansu.yadav.5" height="30" width="30" /></a>&nbsp
 <a href="https://www.instagram.com/mursalfk/" target="blank"><img align="center" src="img/instagram.png" alt="_devansh_609" height="30" width="30" /></a>
 <a href="https://mursalfk.medium.com/" target="blank"><img align="center" src="img/medium.png" alt="devansuyadav" height="30" width="30" /></a>&nbsp
-
+<a href="https://dev.to/mursalfk">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mursal Furqan's DEV Community Profile" height="30" width="30">
+</a>
 </p>
 
 
