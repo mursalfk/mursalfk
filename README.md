@@ -84,7 +84,7 @@
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=mursalfk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://jmrchelani.github.io/"><img alt="Mursal Furqan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mursalfk&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
+<a href="https://activity-graph.herokuapp.com/graph?username=mursalfk&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true"><img alt="Mursal Furqan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mursalfk&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
 
 <div align="center" width="100%">
 
