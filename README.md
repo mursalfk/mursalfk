@@ -33,7 +33,7 @@
 -->
 
 
-<img src="img/MSFTStudentambassadors.gif" width="900" height="400"/>
+<!-- <img src="img/MSFTStudentambassadors.gif" width="900" height="400"/> -->
 
 <h1 align="center">Hello | سلام | नमस्ते <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,</h1>  
 <h1 align="center"> I'm Mursal Furqan</h1>
