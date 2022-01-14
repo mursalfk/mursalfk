@@ -37,9 +37,8 @@
 
 <h1 align="center">Hello | سلام | नमस्ते <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,</h1>  
 <h1 align="center"> I'm Mursal Furqan</h1>
-<h2 align="center">I am a Python Programmer (I ❤️ Python)</h2>
-<h2 align="center">I am also an <b>β-Microsoft Learn Student Ambassador</b></h2>
-<h3 align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px"> ❤️(Data Science && Machine Learning) <!--<img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px">--> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px"></h3>
+<h2 align="center">I am a Django & React Developer (I ❤️ FOSS)</h2>
+<!-- <h2 align="center">I am also an <b>β-Microsoft Learn Student Ambassador</b></h2> -->
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"/>
 
@@ -84,11 +83,12 @@
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=mursalfk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://activity-graph.herokuapp.com/graph?username=mursalfk&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true"><img alt="Mursal Furqan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mursalfk&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
+<a href="https://activity-graph.herokuapp.com/graph?username=mursalfk&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true"><img alt="Mursal Furqan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mursalfk&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a> <h3 align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px"> <!--❤️(Data Science && Machine Learning) <img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px">--> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px"></h3>
+
 
 <div align="center" width="100%">
 
-![Mursal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mursalfk&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true)
+![Mursal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mursalfk&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true) 
 
  </div>
 
