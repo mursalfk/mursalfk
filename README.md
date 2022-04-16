@@ -97,5 +97,5 @@
   <img src="https://profile-counter.glitch.me/mursalfk/count.svg"/>
  </p>
 
-<h4 align="center">Show some ❤️ by starring ⭐ some of the repositories!</h4>
+<h4 align="center">Show some ❤️ by starring ⭐ some of the repos!</h4>
 
