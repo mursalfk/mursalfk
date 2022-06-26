@@ -1,6 +1,6 @@
 <!--
 <div  align="ceter">
-<h1 align="center">Hello | سلام | नमस्ते <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><br> I'm Mursal Furqan <br></h1>  
+<h1 align="center">Hello | سلام | नमस्ते <br> I'm Mursal Furqan <br></h1>  
 <h3 align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px"> :heart: Data Science & Machine Learning | Microsoft Learn Student Ambassador <!--<img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px"></h3>
  <hr>
     <h2 align="center">Welcome To my <i><b> GitHub Profile </b></i></h2>
