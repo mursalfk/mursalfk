@@ -35,7 +35,7 @@
 
 <!-- <img src="img/MSFTStudentambassadors.gif" width="900" height="400"/> -->
 
-<h1 align="center">Hello | سلام | नमस्ते <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,</h1>  
+<h1 align="center">Hello | سلام | नमस्ते,</h1>  
 <h1 align="center"> I'm Mursal Furqan</h1>
 <h2 align="center">I am a Django & React Developer (I ❤️ FOSS)</h2>
 <!-- <h2 align="center">I am also an <b>β-Microsoft Learn Student Ambassador</b></h2> -->
