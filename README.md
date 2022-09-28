@@ -85,12 +85,18 @@
 
 <a href="https://activity-graph.herokuapp.com/graph?username=mursalfk&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true"><img alt="Mursal Furqan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mursalfk&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a> <h3 align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px"> <!--❤️(Data Science && Machine Learning) <img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px">--> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px"></h3>
 
+ <div align="center" width="100%">
+
+[![@mursalfk's Holopin board](https://holopin.io/api/user/board?user=mursalfk)](https://holopin.io/@mursalfk)
+
+ </div>
 
 <div align="center" width="100%">
 
 ![Mursal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mursalfk&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true) 
 
  </div>
+ 
 
 <p align="center"> 
   Visitor count<br>
