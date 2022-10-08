@@ -1,3 +1,4 @@
+<span color="#000000">
 <h1 align="center">Hello | سلام | नमस्ते,</h1>  
 <h2 align="center"> I'm Mursal Furqan</h1>
 <h4 align="center">I am a React Developer (I ❤️ FOSS)</h2>
@@ -67,3 +68,4 @@
  </p>
 
 <h4 align="center">Show some ❤️ by starring ⭐ some of the repos!</h4>
+</span>
