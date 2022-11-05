@@ -41,12 +41,11 @@
 
 <hr \>
 
-### Languages I have worked with -
-<div align="center" style="display:flex; width: 100%">
+<!-- <div align="center" style="display:flex; width: 100%">
  
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=mursalfk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+</div> -->
 
 <a href="https://activity-graph.herokuapp.com/graph?username=mursalfk&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true"><img alt="Mursal Furqan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mursalfk&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
 
@@ -57,13 +56,20 @@
 
  </div>
  
-<h3 align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px"> <!--❤️(Data Science && Machine Learning) <img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px">--> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px"></h3>
-
+<!--
+<h3 align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px"> ❤️(Data Science && Machine Learning) <img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px"></h3>
+-->
 
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=mursalfk&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
     <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=mursalfk&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+</p>
 
+<h3 align="center">Languages I have worked with</h3>
+
+<p align="center"> 
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mursalfk"/> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px">
 </p>
  
 
