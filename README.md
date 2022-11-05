@@ -23,7 +23,8 @@
 
 <hr \>
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me: <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="40px" />
+
 <p align="left">
 <a href="https://www.linkedin.com/in/mursalfurqan/" target="blank"><img align="center" src="img/linkedin.png" alt="devansu-yadav" height="30" width="30" /></a>&nbsp
   <a href="https://twitter.com/mursalfurqan">
