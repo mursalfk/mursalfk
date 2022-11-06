@@ -16,7 +16,7 @@
 - 😍 I ❤️ <i>reading tech blogs, 💫travelling and building myself</i>
 - 💌 💝 History 🙏 Everyone
 - 😄 Pronouns: He/Him 
-- 🌙 Fun fact: NASA's Perseverance Rover carries my name😁(👽 could know about me🤣) 
+- 🌙 Fun fact: NASA's Perseverance Rover carries my name😁(👽 could know about me 😜) 
 - 🎆 [Qwiklabs/GCloud Learning Profile](https://www.qwiklabs.com/public_profiles/e7c9d521-8506-4a4a-bc2e-c718fc91744e)
 - 👩‍💻 [Microsoft Learn/Microsoft Docs Learning Profile](https://docs.microsoft.com/en-us/users/mursalfurqan/)  
 <br><br>
