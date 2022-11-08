@@ -1,5 +1,5 @@
 <span color="#000000">
-<h1 align="center">Hello | سلام | नमस्ते,</h1>  
+<h1 align="center">Hello | سلام | नमस्ते</h1>  
 <h2 align="center"> I'm Mursal Furqan</h1>
 <h4 align="center">I am a React Developer (I ❤️ FOSS)</h2>
 
