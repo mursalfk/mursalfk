@@ -47,8 +47,7 @@
 
 </div> -->
 
-<a href="https://activity-graph.herokuapp.com/graph?username=mursalfk&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true"><img alt="Mursal Furqan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mursalfk&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
-
+![Mursal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mursalfk&bg_color=1e221e&color=ffffff&line=539af4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  <div align="center" width="100%">
 
