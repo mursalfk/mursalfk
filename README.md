@@ -47,7 +47,7 @@
 
 </div> -->
 
-![Mursal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mursalfk&bg_color=1e221e&color=ffffff&line=539af4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Mursal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mursalfk&bg_color=1e221e&color=ffffff&line=539af4&point=ffffff&area=true&hide_border=true)
 
  <div align="center" width="100%">
 
