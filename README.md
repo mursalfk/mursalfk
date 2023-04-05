@@ -8,7 +8,7 @@
 
 ## 🧐 About
 
-- 🌱 I’m currently learning **React and its frameworks** along with **Flask**.
+- 🌱 I’m currently learning **React and its frameworks** along with **Flask**
 - 📫 Want to reach me? **mursalfurqan@gmail.com** or DM me on **<a href = "https://twitter.com/mursalfurqan/">Twitter</a>**.
 - 🔭 I am currently contributing to Open Source, building some cool daily use applications using React and Django, writing Tech Blogs on <a href = "https://dev.to/mursalfk/">Dev.to</a>.
 - 👀 Things I know: <i> React, Python, Django, Markdown, Hugo, Git/Github</i> 
