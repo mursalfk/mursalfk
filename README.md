@@ -18,7 +18,8 @@
 - 😄 Pronouns: He/Him 
 - 🌙 Fun fact: NASA's Perseverance Rover carries my name😁(👽 could know about me 😜) & Google knows more about me than myself 😅
 - 🎆 [Qwiklabs/GCloud Learning Profile](https://www.qwiklabs.com/public_profiles/e7c9d521-8506-4a4a-bc2e-c718fc91744e)
-- 👩‍💻 [Microsoft Learn/Microsoft Docs Learning Profile](https://docs.microsoft.com/en-us/users/mursalfurqan/)  
+- 👩‍💻 [Microsoft Learn/Microsoft Docs Learning Profile](https://docs.microsoft.com/en-us/users/mursalfurqan/)
+- <a href ="https://mursalfk.com">Learn More</a>  
 <br><br>
 
 <hr \>
