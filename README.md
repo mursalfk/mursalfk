@@ -63,7 +63,7 @@
 
 <p align="center">
     <img height="200px" width="400px" src="https://awesome-github-stats.azurewebsites.net/user-stats/mursalfk?cardType=github&theme=github-dark" />
-    <img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=mursalfk&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E](https://streak-stats.demolab.com?user=mursalfk&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=4986D0&sideLabels=DDDDDD&dates=4986D0&currStreakNum=DDDDDD&currStreakLabel=DDDDDD&ring=4986D0&sideNums=4986D0" />
+
 </p>  
   
   
