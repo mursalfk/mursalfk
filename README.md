@@ -1,5 +1,8 @@
+<p align="center">
+  <img width='100%' src="https://capsule-render.vercel.app/api?text=Hello%|%سلام%|%नमस्ते&animation=fadeIn&type=waving&color=gradient&fontColor=220661&fontSize=40&height=100&width=100"/>
+</p>
+
 <span color="#000000">
-<h1 align="center">Hello | سلام | नमस्ते</h1>  
 <h2 align="center"> I'm Mursal Furqan</h1>
 <h4 align="center">I am a React Developer (I 💖 F.O.S.S.)</h2>
 
