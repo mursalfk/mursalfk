@@ -1,7 +1,7 @@
 <span color="#000000">
 <h1 align="center">Hello | سلام | नमस्ते</h1>  
 <h2 align="center"> I'm Mursal Furqan</h1>
-<h4 align="center">I am a React Developer (I ❤️ F.O.S.S.)</h2>
+<h4 align="center">I am a React Developer (I 💖 F.O.S.S.)</h2>
 
 <img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"/>
 
