@@ -10,7 +10,7 @@
 
 
 ## 🧐 About
-- 🌐 Visit my [Website](https://mursalfk.github.io/React-Portfolio1/)
+- 🌐 Visit my [Website](https://mursalfk.github.io/React-Portfolio1/).
 - 🌱 I’m currently learning **React and its frameworks** along with **Flask**.
 - 📫 Want to reach me? **mursalfurqan@gmail.com** or DM me on **<a href = "https://twitter.com/mursalfurqan/">Twitter</a>**.
 - 🎆 Research Fellow at [SISSA](https://sissa.it/).
