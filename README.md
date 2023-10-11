@@ -8,6 +8,7 @@
 
 <img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"/>
 
+<!-- - 👐 I'm looking for: A team for Hackathons &  unlimited learning opportunities -->
 
 ## 🧐 About
 - 🌐 Visit my [Website](https://mursalfk.github.io/React-Portfolio1/)
@@ -15,8 +16,7 @@
 - 📫 Want to reach me? **mursalfurqan@gmail.com** or DM me on **<a href = "https://twitter.com/mursalfurqan/">Twitter</a>**.
 - 🎆 Research Fellow at [SISSA](https://sissa.it/).
 - 🔭 I am currently contributing to Open Source, building some cool daily use applications using React and Django, and writing Tech Blogs on <a href = "https://dev.to/mursalfk/">Dev.to</a>.
-- 👀 Things I know: <i> React, Python, Django, Markdown, Hugo, Git/Github</i> 
-- 👐 I'm looking for: A team for Hackathons &  unlimited learning opportunities
+- 👀 Things I know: <i> React, Python, Flask, Markdown, Firebase, MongoDB, Git/Github</i> 
 - 😍 I ❤️ <i>reading tech blogs, 💫travelling and building myself</i>
 - 💌 💝 History 🙏 Everyone
 - 😄 Pronouns: He/Him 
