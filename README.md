@@ -11,7 +11,7 @@
 <!-- - 👐 I'm looking for: A team for Hackathons &  unlimited learning opportunities -->
 
 ## 🧐 About
-- 🌐 Visit my [Website](https://mursal.me/).
+- 🌐 Visit my [Website](https://mursal.me/)
 - 🌱 I’m currently learning **React and its frameworks** along with **Flask**
 - 📫 Want to reach me? **mursalfurqan@gmail.com** or DM me on **<a href = "https://twitter.com/mursalfurqan/">Twitter</a>**.
 - 🎆 Research Fellow at [SISSA](https://sissa.it/).
