@@ -2,28 +2,42 @@ name: Generate 3D contribution graph
 
 on:
   schedule:
-    - cron: "0 1 * * *"   # daily at 01:00 UTC
+    - cron: "0 1 * * *"      # daily at 01:00 UTC
   workflow_dispatch:
 
+# 👇 absolutely required so the bot can commit the generated SVGs
 permissions:
-  contents: write  # <-- REQUIRED so the bot can commit the SVGs
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
-      - name: Generate SVGs
+    steps:
+      - name: Checkout (full)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate 3D SVGs
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         with:
           username: mursalfk
           token: ${{ secrets.GITHUB_TOKEN }}
+          # Optional knobs if you want:
+          # utcOffset: 0
+          # exclude: ""
+          # base: "followers,stars,commits,prs,issues,contribs"
 
-      - name: Commit & push generated files
+      - name: List generated files (debug)
+        run: |
+          echo "Generated files:"
+          ls -la profile-3d-contrib || true
+
+      - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "chore: update 3D contribution graph" || echo "No changes to commit"
+          git commit -m "chore: update 3D contribution graph" || echo "No changes"
           git push
