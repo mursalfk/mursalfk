@@ -1,0 +1,14 @@
+name: Pull Dev.to posts
+on:
+  schedule: [{cron: "0 */12 * * *"}]
+  workflow_dispatch:
+permissions: { contents: write }
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOG-POST-LIST"
+          feed_list: "https://dev.to/feed/mursalfk"
