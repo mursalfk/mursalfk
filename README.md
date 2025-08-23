@@ -1,90 +1,133 @@
+<!-- Header / Ribbon -->
 <p align="center">
-  <img width='100%' src="https://capsule-render.vercel.app/api?text=Hello%|%سلام%|%नमस्ते&animation=fadeIn&type=waving&color=gradient&fontColor=220661&fontSize=40&height=100&width=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f172a,100:1e293b&text=Mursal%20Furqan&desc=React%20%7C%20Flask%20%7C%20Open%20Source&fontColor=ffffff&fontSize=42&descSize=16&fontAlign=50&descAlign=50&descAlignY=75" width="100%"/>
 </p>
 
-<span color="#000000">
-<h2 align="center"> I'm Mursal Furqan</h1>
-<h4 align="center">I am a React Developer (I 💖 F.O.S.S.)</h2>
-
-<img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"/>
-
-<!-- - 👐 I'm looking for: A team for Hackathons &  unlimited learning opportunities -->
-
-## 🧐 About
-- 🌐 Visit my [Website](https://mursal.me/)
-- 🌱 I’m currently learning **React and its frameworks** along with **Flask**
-- 📫 Want to reach me? **mursalfurqan@gmail.com** or DM me on **<a href = "https://twitter.com/mursalfurqan/">Twitter</a>**.
-- 🎆 Research Fellow at [SISSA](https://sissa.it/).
-- 🔭 I am currently contributing to Open Source, building some cool daily use applications using React and Django, and writing Tech Blogs on <a href = "https://dev.to/mursalfk/">Dev.to</a>.
-- 👀 Things I know: <i> React, Python, Flask, Markdown, Firebase, MongoDB, Git/Github</i> 
-- 😍 I ❤️ <i>reading tech blogs, 💫travelling and building myself</i>
-- 💌 💝 History 🙏 Everyone
-- 😄 Pronouns: He/Him 
-- 🌙 Fun fact: NASA's Perseverance Rover carries my name😁(👽 could know about me 😜) & Google knows more about me than myself 😅
-- 🎆 [Qwiklabs/GCloud Learning Profile](https://www.qwiklabs.com/public_profiles/e7c9d521-8506-4a4a-bc2e-c718fc91744e)
-- 👩‍💻 [Microsoft Learn/Microsoft Docs Learning Profile](https://docs.microsoft.com/en-us/users/mursalfurqan/)
-- <a href ="https://mursalfk.com">Learn More</a>  
-<br><br>
-
-<hr \>
-
-## Connect with me <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="40px" />
-
-<p align="left">
-<a href="https://www.linkedin.com/in/mursalfurqan/" target="blank"><img align="center" src="img/linkedin.png" alt="devansu-yadav" height="30" width="30" /></a>&nbsp
-  <a href="https://twitter.com/mursalfurqan">
-    <img src="img/twitter.png" alt="Twitter" width="30" height="30"/>
-  </a>&nbsp
-<a href="https://www.facebook.com/mursal.furqan" target="blank"><img align="center" src="img/facebook.png" alt="devansu.yadav.5" height="30" width="30" /></a>&nbsp
-<a href="https://www.instagram.com/mursalfk/" target="blank"><img align="center" src="img/instagram.png" alt="_devansh_609" height="30" width="30" /></a>
-<a href="https://mursalfk.medium.com/" target="blank"><img align="center" src="img/medium.png" alt="devansuyadav" height="30" width="30" /></a>&nbsp
-<a href="https://dev.to/mursalfk">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mursal Furqan's DEV Community Profile" height="30" width="30">
-</a>
-</p>
-
-
-<hr \>
-
-<!-- <div align="center" style="display:flex; width: 100%">
- 
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=mursalfk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div> -->
-
-<!-- ![Mursal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mursalfk&bg_color=1e221e&color=ffffff&line=539af4&point=ffffff&area=true&hide_border=true) -->
-
- <div align="center" width="100%">
-
-[![@mursalfk's Holopin board](https://holopin.io/api/user/board?user=mursalfk)](https://holopin.io/@mursalfk)
-
- </div>
- 
-<!--
-<h3 align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px"> ❤️(Data Science && Machine Learning) <img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px"></h3>
--->
+<h1 align="center">Building reliable UIs. Shipping useful tools.</h1>
 
 <p align="center">
-    <img height="200px" width="400px" src="https://awesome-github-stats.azurewebsites.net/user-stats/mursalfk?cardType=github&theme=github-dark" />
-    <img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=mursalfk&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E](https://streak-stats.demolab.com?user=mursalfk&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=4986D0&sideLabels=DDDDDD&dates=4986D0&currStreakNum=DDDDDD&currStreakLabel=DDDDDD&ring=4986D0&sideNums=4986D0" />
-</p>  
-  
-  
-  
-<h3 align="center">Languages I have worked with</h3>
-
-<p align="center"> 
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mursalfk"/> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px">
+  <a href="https://mursal.me">Portfolio</a> •
+  <a href="https://dev.to/mursalfk">Dev.to</a> •
+  <a href="mailto:mursalfurqan@gmail.com">Email</a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=mursalfk)
- 
+<p align="center">
+  <a href="https://github.com/mursalfk?tab=followers"><img src="https://img.shields.io/github/followers/mursalfk?label=Followers&style=social"></a>
+  <a href="https://twitter.com/mursalfurqan"><img src="https://img.shields.io/twitter/follow/mursalfurqan?style=social"></a>
+  <a href="https://dev.to/mursalfk"><img src="https://img.shields.io/badge/Dev.to-Articles-black"></a>
+</p>
 
+---
+
+## 🧐 About Me
+
+- 🎓 **Master’s in Computer Science (Software Engineering track)** at *Sapienza University of Rome* (Matricola 2047419)  
+  - Current **thesis**: *Real-Time Weed Detection on-the-go Using Computer Vision and Lightweight Deep Learning over Smartphones* (Precision Farming)  
+  - Focus: Deep Learning, Computer Vision, Model Compression, Mobile Deployment  
+
+- 🎓 **Bachelor’s in Computer Systems Engineering** from *Mehran University of Engineering & Technology (MUET) Jamshoro, Pakistan* — Class of 2020 (F-16 batch)  
+
+- 💼 **Research Fellow at [SISSA](https://sissa.it/)** — working on AI/ML applications  
+
+- 🚀 **AWS Community Builder (5+ years, Machine Learning category)**  
+  - Founder of **AWS User Group Karachi**  
+  - Mentor, speaker, and active in the global AWS community  
+
+- 🌍 **Open Source Contributor** — React, Django, Flask, TensorFlow/Keras projects, and custom ML pipelines  
+
+- ✍️ **Technical Writer / Blogger**  
+  - Writing detailed articles on **AWS, Machine Learning, LLMs, Knowledge Graphs, and Web Development** on [Dev.to](https://dev.to/mursalfk)  
+  - Series: *All About LLMs*, *Smart Image Tagging on AWS*, *Graph Neural Networks & Knowledge Graphs on AWS*  
+
+- 🛠️ **Technical Skills**:  
+  - **Frontend**: React.js, React Native, Tailwind, Bootstrap  
+  - **Backend**: Flask, Django, Node.js  
+  - **Databases**: Firebase, MongoDB, PostgreSQL  
+  - **DevOps & Cloud**: AWS (SageMaker, Lambda, Step Functions, Textract, Bedrock), Docker, GitHub Actions  
+  - **ML/DL**: TensorFlow/Keras, PyTorch, Computer Vision, NLP, Ensemble Methods  
+
+- 🏆 **Community & Leadership Roles**:  
+  - GitKraken Ambassador, Microsoft Learn Student Ambassador, IEEE WIE Karachi Section Treasurer, ACM MUET Chairperson  
+  - Volunteer & mentor in tech and social impact orgs (IEEE, Rotaract, SOS Village, Special Olympics Berlin 2023, etc.)  
+
+- 📫 **Reach me**: [mursalfurqan@gmail.com](mailto:mursalfurqan@gmail.com) • [Portfolio](https://mursal.me) • [LinkedIn](https://linkedin.com/in/mursalfurqan) • [Twitter](https://twitter.com/mursalfurqan)  
+
+- 🌙 Fun fact: My name is on NASA’s *Perseverance Rover* 🚀👽  
+
+
+---
+
+## 🛠 Developer Tools / Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,py,flask,django,aws,firebase,mongodb,postgres,git,github,linux,docker,html,css,bootstrap,tailwind" />
+</p>
+
+---
+
+## 📈 GitHub Stats Add-ons
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mursalfk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=mursalfk&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mursalfk&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mursalfk&theme=algolia&margin-w=15&margin-h=15&column=7" alt="trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mursalfk&theme=react-dark&hide_border=true&bg_color=1F222E&line=539af4&point=ffffff&area=true" alt="activity graph"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</p>
+
+<p align="center">
+  <a href="https://holopin.io/@mursalfk">
+    <img src="https://holopin.io/api/user/board?user=mursalfk" alt="Holopin Badges"/>
+  </a>
+</p>
+
+---
+
+## 🎯 Project Showcases
+
+- 🔐 **SecureEntry** — Dual-authentication intrusion alarm (Face + Voice)  
+  ➜ **Repo:** [mursalfk/secureentry_flask](https://github.com/mursalfk/secureentry_flask)
+
+- 🌱 **Pixel Alchemy Studio** — A desktop app for one-click, cinematic image stylization — from Cyberpunk neon nights to Ghibli watercolors, Mughal miniatures, and Hand-Painted vibes. Batch it, tweak it, preview it.  
+  ➜ **Repo:** [mursalfk/Pixel-Alchemy-Studio](https://github.com/mursalfk/Pixel-Alchemy-Studio)
+
+- 📷 **ASL CV based GUI** — Real-time ASL letter prediction using computer vision. This GUI, powered by Mediapipe and a pre-trained model, interprets hand gestures for enhanced communication with the hearing-impaired. Features include a user-friendly interface, ASL reference guide, and real-time prediction. Demo video and contributors' LinkedIn profiles included.  
+  ➜ **Repo:** [mursalfk/asl_cv_gui](https://github.com/mursalfk/asl_cv_gui)
+
+<p align="center">
+  <a href="https://github.com/mursalfk/secureentry_flask">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mursalfk&repo=secureentry_flask&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/mursalfk/Pixel-Alchemy-Studio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mursalfk&repo=Pixel-Alchemy-Studio&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+<!-- 🐍 Snake animation — works after snake.yml runs -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mursalfk/mursalfk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+## 👀 Profile Views
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mursalfk/count.svg"/>
- </p>
+  <img src="https://komarev.com/ghpvc/?username=mursalfk&color=blueviolet" alt="profile views"/>
+</p>
 
-<h4 align="center">Show some ❤️ by starring ⭐ some of the repos!</h4>
-</span>
+<h4 align="center"> Show some 💖, consider ⭐ing a repo!</h4>
