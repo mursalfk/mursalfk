@@ -182,6 +182,11 @@
 
 ## 📝 Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Level Up Your Auto-Tagging Pipeline on AWS](https://dev.to/aws-builders/level-up-your-auto-tagging-pipeline-on-aws-4abj) — Apr 3, 2025
+- [Introduction \| Graph Neural Networks (GNNs) & Knowledge Graphs on AWS](https://dev.to/mursalfk/introduction-graph-neural-networks-gnns-knowledge-graphs-on-aws-f9m) — Mar 15, 2025
+- [Building My First ML Model Using Amazon SageMaker + Kaggle + Jupyter Notebook](https://dev.to/mursalfk/building-my-first-ml-model-using-amazon-sagemaker-kaggle-jupyter-notebook-i7f) — Jan 2, 2025
+- [30 React One-Liners to Enhance Your Coding Efficiency](https://dev.to/mursalfk/30-react-one-liners-to-enhance-your-coding-efficiency-33o7) — Dec 11, 2024
+- [Ultimate React Interview Study Plan](https://dev.to/mursalfk/ultimate-react-interview-study-plan-your-one-stop-for-your-next-react-interview-59bf) — Nov 4, 2024
 <!-- BLOG-POST-LIST:END -->
 
 ---
