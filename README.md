@@ -144,11 +144,11 @@
 
 ## 📝 Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your Auto-Tagging Pipeline on AWS](https://dev.to/aws-builders/level-up-your-auto-tagging-pipeline-on-aws-4abj) — Apr 3, 2025
-- [Introduction \| Graph Neural Networks (GNNs) & Knowledge Graphs on AWS](https://dev.to/mursalfk/introduction-graph-neural-networks-gnns-knowledge-graphs-on-aws-f9m) — Mar 15, 2025
-- [Building My First ML Model Using Amazon SageMaker + Kaggle + Jupyter Notebook](https://dev.to/mursalfk/building-my-first-ml-model-using-amazon-sagemaker-kaggle-jupyter-notebook-i7f) — Jan 2, 2025
-- [30 React One-Liners to Enhance Your Coding Efficiency](https://dev.to/mursalfk/30-react-one-liners-to-enhance-your-coding-efficiency-33o7) — Dec 11, 2024
-- [Ultimate React Interview Study Plan](https://dev.to/mursalfk/ultimate-react-interview-study-plan-your-one-stop-for-your-next-react-interview-59bf) — Nov 4, 2024
+- [WSL2 TensorFlow GPU Setup – RTX 4060 + Ubuntu 22.04 + CUDA 12.2 + cuDNN](https://dev.to/mursalfk/wsl2-tensorflow-gpu-setup-rtx-4060-ubuntu-2204-cuda-122-cudnn-361h)
+- [Smart Image Tagging on AWS - The Finale](https://dev.to/aws-builders/smart-image-tagging-on-aws-the-finale-303)
+- [Level Up Your Auto-Tagging Pipeline on AWS](https://dev.to/aws-builders/level-up-your-auto-tagging-pipeline-on-aws-4abj)
+- [Auto-Tag Images on AWS using Amazon Rekognition + Lambda + S3](https://dev.to/aws-builders/auto-tag-images-on-aws-using-amazon-rekognition-lambda-s3-1d1h)
+- [Introduction | Graph Neural Networks &lpar;GNNs&rpar; &amp; Knowledge Graphs on AWS](https://dev.to/mursalfk/introduction-graph-neural-networks-gnns-knowledge-graphs-on-aws-f9m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
