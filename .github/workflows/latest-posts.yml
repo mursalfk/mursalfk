@@ -1,0 +1,63 @@
+name: Update latest posts
+on:
+  schedule:
+    - cron: "0 4 * * *"   # daily at 04:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README with latest posts
+        run: |
+          node -e '
+          const fs = require("fs");
+          const fetch = global.fetch;
+
+          const ME = "mursalfk";
+          const ORG = "aws-builders";
+          const LIMIT = 5;
+
+          async function getJSON(url){ const r = await fetch(url); if(!r.ok) throw new Error(r.status+" "+url); return r.json(); }
+
+          (async () => {
+            const mine = await getJSON(`https://dev.to/api/articles?username=${ME}&per_page=20`);
+            const org  = await getJSON(`https://dev.to/api/articles?organization=${ORG}&per_page=50`);
+            const orgMine = org.filter(a =>
+              (a.user && (a.user.username === ME || (a.user.name||"").toLowerCase().includes("mursal furqan")))
+            );
+            const all = [...mine, ...orgMine]
+              .filter(a => a.published_at && a.url && a.title)
+              .sort((a,b) => new Date(b.published_at) - new Date(a.published_at))
+              .slice(0, LIMIT);
+
+            const fmt = (d) => {
+              const dt = new Date(d);
+              const opts = { year: "numeric", month: "short", day: "numeric" };
+              return dt.toLocaleDateString("en-US", opts);
+            };
+
+            const lines = all.map(a => `- [${a.title.replaceAll("|","\\|")}](${a.url}) — ${fmt(a.published_at)}`);
+            const md = fs.readFileSync("README.md", "utf8");
+            const start = "<!-- BLOG-POST-LIST:START -->";
+            const end   = "<!-- BLOG-POST-LIST:END -->";
+            const re = new RegExp(`${start}[\\s\\S]*?${end}`);
+            const next = `${start}\n${lines.join("\\n")}\n${end}`;
+            if(!re.test(md)) throw new Error("Markers not found in README.md");
+            const out = md.replace(re, next);
+            fs.writeFileSync("README.md", out);
+          })().catch(e => { console.error(e); process.exit(1); });
+          '
+
+      - name: Commit & push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update latest posts" || echo "No changes"
+          git push
