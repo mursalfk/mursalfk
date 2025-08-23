@@ -127,38 +127,6 @@
   </a>
 </p>
 
-<!-- Optional gallery with screenshots (add preview.png/.gif in each repo root, or remove this block) -->
-<details>
-  <summary>🖼️ Project Gallery (screenshots) — click to expand</summary>
-
-  <table>
-    <tr>
-      <td width="33%">
-        <h4>🔐 SecureEntry</h4>
-        <a href="https://github.com/mursalfk/secureentry_flask">
-          <img src="https://raw.githubusercontent.com/mursalfk/secureentry_flask/HEAD/preview.png" alt="SecureEntry preview" />
-        </a>
-        <p>Face + Voice intrusion alarm (Flask)</p>
-      </td>
-      <td width="33%">
-        <h4>🌱 Pixel Alchemy Studio</h4>
-        <a href="https://github.com/mursalfk/Pixel-Alchemy-Studio">
-          <img src="https://raw.githubusercontent.com/mursalfk/Pixel-Alchemy-Studio/HEAD/preview.png" alt="Pixel Alchemy preview" />
-        </a>
-        <p>One-click cinematic image stylisation (desktop)</p>
-      </td>
-      <td width="33%">
-        <h4>📷 ASL CV GUI</h4>
-        <a href="https://github.com/mursalfk/asl_cv_gui">
-          <img src="https://raw.githubusercontent.com/mursalfk/asl_cv_gui/HEAD/preview.png" alt="ASL GUI preview" />
-        </a>
-        <p>Real-time ASL letter prediction with Mediapipe</p>
-      </td>
-    </tr>
-  </table>
-
-</details>
-
 ---
 
 ## 📈 GitHub Stats Add-ons
@@ -168,15 +136,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mursalfk&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=mursalfk&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=mursalfk&theme=react-dark&hide_border=true&bg_color=1F222E&line=539af4&point=ffffff&area=true" alt="activity graph"/>
 </p>
-
-<details>
-  <summary>📊 More Stats (activity graph) — click to expand</summary>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mursalfk&theme=react-dark&hide_border=true&bg_color=1F222E&line=539af4&point=ffffff&area=true" alt="activity graph"/>
-  </p>
-</details>
 
 ---
 
