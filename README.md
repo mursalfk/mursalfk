@@ -19,12 +19,33 @@
   </a>
 </p>
 
-
 <p align="center">
   <a href="https://github.com/mursalfk?tab=followers"><img src="https://img.shields.io/github/followers/mursalfk?label=Followers&style=social"></a>
   <a href="https://twitter.com/mursalfurqan"><img src="https://img.shields.io/twitter/follow/mursalfurqan?style=social"></a>
   <a href="https://dev.to/mursalfk"><img src="https://img.shields.io/badge/Dev.to-Articles-black"></a>
 </p>
+
+<!-- Quick Nav -->
+<p align="center">
+  <a href="#-now">Now</a> •
+  <a href="#-about-me">About</a> •
+  <a href="#-developer-tools--skills">Skills</a> •
+  <a href="#-toolbox-daily-drivers">Toolbox</a> •
+  <a href="#-project-showcases">Projects</a> •
+  <a href="#-github-stats-add-ons">Stats</a> •
+  <a href="#-latest-posts">Posts</a> •
+  <a href="#-certifications--programs">Certifications</a> •
+  <a href="#-reach-me">Reach Me</a> •
+  <a href="#-open-for">Open For</a>
+</p>
+
+---
+
+## 📌 Now
+- Building: **Pixel Alchemy Studio** (desktop image stylisation)
+- Writing: *All About LLMs* series on Dev.to
+- Learning: **Advanced React patterns**, **Flask + async workers**, **Bedrock/Claude** tooling
+- Community: **AWS Community Builder (ML) – Year 5**, mentoring local devs
 
 ---
 
@@ -61,11 +82,11 @@
   - **Former** Microsoft Learn Student Ambassador (MLSA)  
   - **Former** Treasurer, IEEE WIE Karachi Section  
   - **Former** Chairperson, ACM MUET Student Chapter  
-  - **Former** Chairperson, IEEE Computer Society MUET Jamshoro
-  - **Former** GitKraken Ambassador
-  - **Former** Rotaract 3271 Co-Chair
-  - **Former** Volunteer for Special Olympics Berlin 2023
-  - **Former** SOS Village Volunteer
+  - **Former** Chairperson, IEEE Computer Society MUET Jamshoro  
+  - **Former** GitKraken Ambassador  
+  - **Former** Rotaract 3271 Co-Chair  
+  - **Former** Volunteer for Special Olympics Berlin 2023  
+  - **Former** SOS Village Volunteer  
   - and more  
 
 - 🌙 Fun fact: My name is on NASA’s *Perseverance Rover* 🚀👽  
@@ -79,52 +100,9 @@
 
 ---
 
-- 📫 **Reach me**:
-
-<p align="left">
-  <a href="mailto:mursalfurqan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://mursal.me">
-    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mursalfurqan">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/mursalfurqan">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://dev.to/mursalfk">
-    <img src="https://img.shields.io/badge/Dev.to-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 📈 GitHub Stats Add-ons
+## 🧰 Toolbox (Daily Drivers)
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mursalfk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=mursalfk&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mursalfk&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mursalfk&theme=react-dark&hide_border=true&bg_color=1F222E&line=539af4&point=ffffff&area=true" alt="activity graph"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
-
-<p align="center">
-  <a href="https://holopin.io/@mursalfk">
-    <img src="https://holopin.io/api/user/board?user=mursalfk" alt="Holopin Badges"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,bash,webpack,eslint,prettier,npm,pnpm,vercel" />
 </p>
 
 ---
@@ -149,6 +127,102 @@
   </a>
 </p>
 
+<!-- Optional gallery with screenshots (add preview.png/.gif in each repo root, or remove this block) -->
+<details>
+  <summary>🖼️ Project Gallery (screenshots) — click to expand</summary>
+
+  <table>
+    <tr>
+      <td width="33%">
+        <h4>🔐 SecureEntry</h4>
+        <a href="https://github.com/mursalfk/secureentry_flask">
+          <img src="https://raw.githubusercontent.com/mursalfk/secureentry_flask/HEAD/preview.png" alt="SecureEntry preview" />
+        </a>
+        <p>Face + Voice intrusion alarm (Flask)</p>
+      </td>
+      <td width="33%">
+        <h4>🌱 Pixel Alchemy Studio</h4>
+        <a href="https://github.com/mursalfk/Pixel-Alchemy-Studio">
+          <img src="https://raw.githubusercontent.com/mursalfk/Pixel-Alchemy-Studio/HEAD/preview.png" alt="Pixel Alchemy preview" />
+        </a>
+        <p>One-click cinematic image stylisation (desktop)</p>
+      </td>
+      <td width="33%">
+        <h4>📷 ASL CV GUI</h4>
+        <a href="https://github.com/mursalfk/asl_cv_gui">
+          <img src="https://raw.githubusercontent.com/mursalfk/asl_cv_gui/HEAD/preview.png" alt="ASL GUI preview" />
+        </a>
+        <p>Real-time ASL letter prediction with Mediapipe</p>
+      </td>
+    </tr>
+  </table>
+
+</details>
+
+---
+
+## 📈 GitHub Stats Add-ons
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mursalfk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=mursalfk&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mursalfk&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</p>
+
+<details>
+  <summary>📊 More Stats (activity graph) — click to expand</summary>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mursalfk&theme=react-dark&hide_border=true&bg_color=1F222E&line=539af4&point=ffffff&area=true" alt="activity graph"/>
+  </p>
+</details>
+
+---
+
+## 📝 Latest Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🎓 Certifications & Programs
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS%20Community%20Builder-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <a href="https://www.qwiklabs.com/public_profiles/e7c9d521-8506-4a4a-bc2e-c718fc91744e"><img src="https://img.shields.io/badge/Qwiklabs-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/></a>
+  <a href="https://docs.microsoft.com/en-us/users/mursalfurqan/"><img src="https://img.shields.io/badge/Microsoft%20Learn-2F2F2F?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
+</p>
+
+---
+
+## 📫 Reach Me
+<p align="left">
+  <a href="mailto:mursalfurqan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://mursal.me">
+    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/mursalfurqan">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/mursalfurqan">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://dev.to/mursalfk">
+    <img src="https://img.shields.io/badge/Dev.to-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🤝 Open For
+<p>
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-22c55e?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Available%20for-Speaking-3b82f6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Available%20for-Mentoring-f59e0b?style=for-the-badge"/>
+</p>
+
 ---
 
 <!-- 🐍 Snake animation — works after snake.yml runs -->
@@ -156,8 +230,27 @@
   <img src="https://raw.githubusercontent.com/mursalfk/mursalfk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
+<!-- Fun Zone (kept collapsible so the page stays professional by default) -->
+<details>
+  <summary>🎧 Fun Zone — click to expand</summary>
+  <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+  </p>
+  <p align="center">
+    <img src="https://novatorem.vercel.app/api/spotify" width="400" alt="Now Playing on Spotify"/>
+  </p>
+  <p align="center">
+    <a href="https://holopin.io/@mursalfk">
+      <img src="https://holopin.io/api/user/board?user=mursalfk" alt="Holopin Badges"/>
+    </a>
+  </p>
+</details>
+
 ---
 
-## 👀 Profile Views : <p align="center"> <img src="https://komarev.com/ghpvc/?username=mursalfk&color=blueviolet" alt="profile views"/> </p>
+## 👀 Profile Views
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=mursalfk&color=blueviolet" alt="profile views"/>
+</p>
 
 <h4 align="center"> Show some 💖, consider ⭐ing a repo!</h4>
