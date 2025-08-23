@@ -1,0 +1,37 @@
+name: Generate self-hosted trophies
+
+on:
+  schedule:
+    - cron: "0 3 * * *"       # daily at 03:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Generate a trophies-like SVG using Metrics (achievements plugin)
+      - name: Build trophies
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: mursalfk
+          template: classic
+          base: ""                              # keep it focused on trophies
+          filename: profile-trophies.svg        # file will be committed to the repo
+          config_timezone: Asia/Karachi
+
+          # Achievements plugin (this is your "trophies")
+          plugin_achievements: yes
+          plugin_achievements_threshold: C      # A/B/C tiers (C = show more)
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: compact  # compact | detailed | emphasized
+
+          # Commit the generated SVG automatically
+          output_action: commit
+          committer_branch: HEAD                 # use the default branch automatically
+          committer_message: "chore: update trophies (self-hosted)"
