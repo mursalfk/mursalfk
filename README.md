@@ -38,7 +38,7 @@
 
 - 🎓 **Bachelor’s in Computer Systems Engineering** from *Mehran University of Engineering & Technology (MUET) Jamshoro, Pakistan* — Class of 2020 (F-16 batch)  
 
-- 💼 **Research Fellow at [SISSA](https://sissa.it/)** — working on AI/ML applications  
+- 💼 **_Former_ Research Fellow at [SISSA](https://sissa.it/)** — working on AI/ML applications  
 
 - 🚀 **AWS Community Builder (Machine Learning category)** — currently in my **5th year** in the program  
   - Founder of **AWS User Group Karachi**  
