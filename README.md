@@ -1,15 +1,24 @@
-<!-- Header / Ribbon -->
+<!-- Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f172a,100:1e293b&text=Mursal%20Furqan&desc=React%20%7C%20Flask%20%7C%20Open%20Source&fontColor=ffffff&fontSize=42&descSize=16&fontAlign=50&descAlign=50&descAlignY=75" width="100%"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&background=0d1117&lines=Hey+there!+I'm+Mursal+Furqan;Full-Stack+React+Developer;5th+Year+AWS+Community+Builder+(ML);OSS+Contributor+%7C+Tech+Blogger;Building+robust+UIs+%26+useful+tools" alt="Typing SVG" />
+  </a>
 </p>
 
 <h1 align="center">Building reliable UIs. Shipping useful tools.</h1>
 
 <p align="center">
-  <a href="https://mursal.me">Portfolio</a> •
-  <a href="https://dev.to/mursalfk">Dev.to</a> •
-  <a href="mailto:mursalfurqan@gmail.com">Email</a>
+  <a href="https://mursal.me">
+    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://dev.to/mursalfk">
+    <img src="https://img.shields.io/badge/Dev.to-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+  <a href="mailto:mursalfurqan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/mursalfk?tab=followers"><img src="https://img.shields.io/github/followers/mursalfk?label=Followers&style=social"></a>
@@ -21,6 +30,8 @@
 
 ## 🧐 About Me
 
+<img width="32%" align="right" alt="Coding" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"/>
+
 - 🎓 **Master’s in Computer Science (Software Engineering track)** at *Sapienza University of Rome* (Matricola 2047419)  
   - Current **thesis**: *Real-Time Weed Detection on-the-go Using Computer Vision and Lightweight Deep Learning over Smartphones* (Precision Farming)  
   - Focus: Deep Learning, Computer Vision, Model Compression, Mobile Deployment  
@@ -29,7 +40,7 @@
 
 - 💼 **Research Fellow at [SISSA](https://sissa.it/)** — working on AI/ML applications  
 
-- 🚀 **AWS Community Builder (5+ years, Machine Learning category)**  
+- 🚀 **AWS Community Builder (Machine Learning category)** — currently in my **5th year** in the program  
   - Founder of **AWS User Group Karachi**  
   - Mentor, speaker, and active in the global AWS community  
 
@@ -47,19 +58,45 @@
   - **ML/DL**: TensorFlow/Keras, PyTorch, Computer Vision, NLP, Ensemble Methods  
 
 - 🏆 **Community & Leadership Roles**:  
-  - GitKraken Ambassador, Microsoft Learn Student Ambassador, IEEE WIE Karachi Section Treasurer, ACM MUET Chairperson  
-  - Volunteer & mentor in tech and social impact orgs (IEEE, Rotaract, SOS Village, Special Olympics Berlin 2023, etc.)  
-
-- 📫 **Reach me**: [mursalfurqan@gmail.com](mailto:mursalfurqan@gmail.com) • [Portfolio](https://mursal.me) • [LinkedIn](https://linkedin.com/in/mursalfurqan) • [Twitter](https://twitter.com/mursalfurqan)  
+  - **Former** Microsoft Learn Student Ambassador (MLSA)  
+  - **Former** Treasurer, IEEE WIE Karachi Section  
+  - **Former** Chairperson, ACM MUET Student Chapter  
+  - **Former** Chairperson, IEEE Computer Society MUET Jamshoro
+  - **Former** GitKraken Ambassador
+  - **Former** Rotaract 3271 Co-Chair
+  - **Former** Volunteer for Special Olympics Berlin 2023
+  - **Former** SOS Village Volunteer
+  - and more  
 
 - 🌙 Fun fact: My name is on NASA’s *Perseverance Rover* 🚀👽  
-
 
 ---
 
 ## 🛠 Developer Tools / Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,ts,py,flask,django,aws,firebase,mongodb,postgres,git,github,linux,docker,html,css,bootstrap,tailwind" />
+</p>
+
+---
+
+- 📫 **Reach me**:
+
+<p align="left">
+  <a href="mailto:mursalfurqan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://mursal.me">
+    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/mursalfurqan">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/mursalfurqan">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://dev.to/mursalfk">
+    <img src="https://img.shields.io/badge/Dev.to-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -72,10 +109,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mursalfk&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mursalfk&theme=algolia&margin-w=15&margin-h=15&column=7" alt="trophies" />
 </p>
 
 <p align="center">
@@ -101,7 +134,7 @@
 - 🔐 **SecureEntry** — Dual-authentication intrusion alarm (Face + Voice)  
   ➜ **Repo:** [mursalfk/secureentry_flask](https://github.com/mursalfk/secureentry_flask)
 
-- 🌱 **Pixel Alchemy Studio** — A desktop app for one-click, cinematic image stylization — from Cyberpunk neon nights to Ghibli watercolors, Mughal miniatures, and Hand-Painted vibes. Batch it, tweak it, preview it.  
+- 🌱 **Pixel Alchemy Studio** — A desktop app for one-click, cinematic image stylisation — from Cyberpunk neon nights to Ghibli watercolours, Mughal miniatures, and Hand-Painted vibes. Batch it, tweak it, preview it.  
   ➜ **Repo:** [mursalfk/Pixel-Alchemy-Studio](https://github.com/mursalfk/Pixel-Alchemy-Studio)
 
 - 📷 **ASL CV based GUI** — Real-time ASL letter prediction using computer vision. This GUI, powered by Mediapipe and a pre-trained model, interprets hand gestures for enhanced communication with the hearing-impaired. Features include a user-friendly interface, ASL reference guide, and real-time prediction. Demo video and contributors' LinkedIn profiles included.  
@@ -125,9 +158,6 @@
 
 ---
 
-## 👀 Profile Views
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mursalfk&color=blueviolet" alt="profile views"/>
-</p>
+## 👀 Profile Views : <p align="center"> <img src="https://komarev.com/ghpvc/?username=mursalfk&color=blueviolet" alt="profile views"/> </p>
 
 <h4 align="center"> Show some 💖, consider ⭐ing a repo!</h4>
