@@ -144,7 +144,11 @@
 
 ## 📝 Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [WSL2 TensorFlow GPU Setup – RTX 4060 + Ubuntu 22.04 + CUDA 12.2 + cuDNN](https://dev.to/mursalfk/wsl2-tensorflow-gpu-setup-rtx-4060-ubuntu-2204-cuda-122-cudnn-361h) — Apr 16, 2025\n- [Smart Image Tagging on AWS - The Finale](https://dev.to/aws-builders/smart-image-tagging-on-aws-the-finale-303) — Apr 4, 2025\n- [Level Up Your Auto-Tagging Pipeline on AWS](https://dev.to/aws-builders/level-up-your-auto-tagging-pipeline-on-aws-4abj) — Apr 3, 2025\n- [Auto-Tag Images on AWS using Amazon Rekognition + Lambda + S3](https://dev.to/aws-builders/auto-tag-images-on-aws-using-amazon-rekognition-lambda-s3-1d1h) — Apr 2, 2025\n- [Introduction \| Graph Neural Networks (GNNs) & Knowledge Graphs on AWS](https://dev.to/mursalfk/introduction-graph-neural-networks-gnns-knowledge-graphs-on-aws-f9m) — Mar 15, 2025
+- [WSL2 TensorFlow GPU Setup – RTX 4060 + Ubuntu 22.04 + CUDA 12.2 + cuDNN](https://dev.to/mursalfk/wsl2-tensorflow-gpu-setup-rtx-4060-ubuntu-2204-cuda-122-cudnn-361h)
+- [Smart Image Tagging on AWS - The Finale](https://dev.to/aws-builders/smart-image-tagging-on-aws-the-finale-303)
+- [Level Up Your Auto-Tagging Pipeline on AWS](https://dev.to/aws-builders/level-up-your-auto-tagging-pipeline-on-aws-4abj)
+- [Auto-Tag Images on AWS using Amazon Rekognition + Lambda + S3](https://dev.to/aws-builders/auto-tag-images-on-aws-using-amazon-rekognition-lambda-s3-1d1h)
+- [Introduction | Graph Neural Networks &lpar;GNNs&rpar; &amp; Knowledge Graphs on AWS](https://dev.to/mursalfk/introduction-graph-neural-networks-gnns-knowledge-graphs-on-aws-f9m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
