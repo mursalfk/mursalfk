@@ -211,6 +211,10 @@
 
 ---
 
+[![An image of @mursalfk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mursalfk)](https://holopin.io/@mursalfk)
+
+---
+
 ## 👀 Profile Views
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mursalfk&color=blueviolet" alt="profile views"/>
