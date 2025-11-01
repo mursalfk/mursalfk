@@ -8,7 +8,7 @@
 <h1 align="center">Building reliable UIs. Shipping useful tools.</h1>
 
 <p align="center">
-  <a href="https://mursal.me">
+  <a href="https://mursalfk.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://dev.to/mursalfk">
