@@ -144,7 +144,11 @@
 
 ## 📝 Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [The AWS Lambda Setting I Wish I’d Changed Earlier](https://dev.to/aws-builders/the-aws-lambda-setting-i-wish-id-changed-earlier-45i0) — Dec 30, 2025\n- [How I Automated Document Insights Using AWS Textract, Bedrock, and QuickSight](https://dev.to/aws-builders/how-i-automated-document-insights-using-aws-textract-bedrock-and-quicksight-h7p) — Sep 12, 2025\n- [🚀 Scaling React Like Big Tech: Folder Structures, Clean Code & Beyond](https://dev.to/mursalfk/scaling-react-like-big-tech-folder-structures-clean-code-beyond-51bj) — Aug 30, 2025\n- [WSL2 TensorFlow GPU Setup – RTX 4060 + Ubuntu 22.04 + CUDA 12.2 + cuDNN](https://dev.to/mursalfk/wsl2-tensorflow-gpu-setup-rtx-4060-ubuntu-2204-cuda-122-cudnn-361h) — Apr 16, 2025\n- [Smart Image Tagging on AWS - The Finale](https://dev.to/aws-builders/smart-image-tagging-on-aws-the-finale-303) — Apr 4, 2025
+- [The AWS Lambda Setting I Wish I’d Changed Earlier](https://dev.to/aws-builders/the-aws-lambda-setting-i-wish-id-changed-earlier-45i0)
+- [How I Automated Document Insights Using AWS Textract, Bedrock, and QuickSight](https://dev.to/aws-builders/how-i-automated-document-insights-using-aws-textract-bedrock-and-quicksight-h7p)
+- [🚀 Scaling React Like Big Tech: Folder Structures, Clean Code &amp; Beyond](https://dev.to/mursalfk/scaling-react-like-big-tech-folder-structures-clean-code-beyond-51bj)
+- [WSL2 TensorFlow GPU Setup – RTX 4060 + Ubuntu 22.04 + CUDA 12.2 + cuDNN](https://dev.to/mursalfk/wsl2-tensorflow-gpu-setup-rtx-4060-ubuntu-2204-cuda-122-cudnn-361h)
+- [Smart Image Tagging on AWS - The Finale](https://dev.to/aws-builders/smart-image-tagging-on-aws-the-finale-303)
 <!-- BLOG-POST-LIST:END -->
 
 ---
