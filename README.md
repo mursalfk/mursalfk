@@ -144,7 +144,11 @@
 
 ## 📝 Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [RIP 12-Digit IDs: The AWS Matrix Has Finally Been Decoded](https://dev.to/aws-builders/rip-12-digit-ids-the-aws-matrix-has-finally-been-decoded-2om9) — Feb 9, 2026\n- [From Monoliths to Multitaskers: Building Your AWS AI Dream Team! 🚀🤖](https://dev.to/aws-builders/from-monoliths-to-multitaskers-building-your-aws-ai-dream-team-5dnf) — Feb 7, 2026\n- [The AWS Lambda Setting I Wish I’d Changed Earlier](https://dev.to/aws-builders/the-aws-lambda-setting-i-wish-id-changed-earlier-45i0) — Dec 30, 2025\n- [How I Automated Document Insights Using AWS Textract, Bedrock, and QuickSight](https://dev.to/aws-builders/how-i-automated-document-insights-using-aws-textract-bedrock-and-quicksight-h7p) — Sep 12, 2025\n- [🚀 Scaling React Like Big Tech: Folder Structures, Clean Code & Beyond](https://dev.to/mursalfk/scaling-react-like-big-tech-folder-structures-clean-code-beyond-51bj) — Aug 30, 2025
+- [RIP 12-Digit IDs: The AWS Matrix Has Finally Been Decoded](https://dev.to/aws-builders/rip-12-digit-ids-the-aws-matrix-has-finally-been-decoded-2om9)
+- [From Monoliths to Multitaskers: Building Your AWS AI Dream Team! 🚀🤖](https://dev.to/aws-builders/from-monoliths-to-multitaskers-building-your-aws-ai-dream-team-5dnf)
+- [The AWS Lambda Setting I Wish I’d Changed Earlier](https://dev.to/aws-builders/the-aws-lambda-setting-i-wish-id-changed-earlier-45i0)
+- [How I Automated Document Insights Using AWS Textract, Bedrock, and QuickSight](https://dev.to/aws-builders/how-i-automated-document-insights-using-aws-textract-bedrock-and-quicksight-h7p)
+- [🚀 Scaling React Like Big Tech: Folder Structures, Clean Code &amp; Beyond](https://dev.to/mursalfk/scaling-react-like-big-tech-folder-structures-clean-code-beyond-51bj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
