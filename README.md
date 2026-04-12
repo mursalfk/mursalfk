@@ -144,7 +144,11 @@
 
 ## 📝 Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Giving AI Agents “Live Memory” with Aurora Zero-ETL and Redshift Vector Search](https://dev.to/mursalfk/giving-ai-agents-live-memory-with-aurora-zero-etl-and-redshift-vector-search-35gg) — Mar 25, 2026\n- [RIP 12-Digit IDs: The AWS Matrix Has Finally Been Decoded](https://dev.to/aws-builders/rip-12-digit-ids-the-aws-matrix-has-finally-been-decoded-2om9) — Feb 9, 2026\n- [From Monoliths to Multitaskers: Building Your AWS AI Dream Team! 🚀🤖](https://dev.to/aws-builders/from-monoliths-to-multitaskers-building-your-aws-ai-dream-team-5dnf) — Feb 7, 2026\n- [The AWS Lambda Setting I Wish I’d Changed Earlier](https://dev.to/aws-builders/the-aws-lambda-setting-i-wish-id-changed-earlier-45i0) — Dec 30, 2025\n- [How I Automated Document Insights Using AWS Textract, Bedrock, and QuickSight](https://dev.to/aws-builders/how-i-automated-document-insights-using-aws-textract-bedrock-and-quicksight-h7p) — Sep 12, 2025
+- [Giving AI Agents “Live Memory” with Aurora Zero-ETL and Redshift Vector Search](https://dev.to/mursalfk/giving-ai-agents-live-memory-with-aurora-zero-etl-and-redshift-vector-search-35gg)
+- [RIP 12-Digit IDs: The AWS Matrix Has Finally Been Decoded](https://dev.to/aws-builders/rip-12-digit-ids-the-aws-matrix-has-finally-been-decoded-2om9)
+- [From Monoliths to Multitaskers: Building Your AWS AI Dream Team! 🚀🤖](https://dev.to/aws-builders/from-monoliths-to-multitaskers-building-your-aws-ai-dream-team-5dnf)
+- [The AWS Lambda Setting I Wish I’d Changed Earlier](https://dev.to/aws-builders/the-aws-lambda-setting-i-wish-id-changed-earlier-45i0)
+- [How I Automated Document Insights Using AWS Textract, Bedrock, and QuickSight](https://dev.to/aws-builders/how-i-automated-document-insights-using-aws-textract-bedrock-and-quicksight-h7p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
