@@ -144,7 +144,11 @@
 
 ## 📝 Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [30 Tiny React Hooks That Punch Way Above Their Weight](https://dev.to/mursalfk/30-tiny-react-hooks-that-punch-way-above-their-weight-1907) — Jun 26, 2026\n- [The Invisible Duct Tape of the Internet: Backend Tools You Hear About But Never Fully Get](https://dev.to/mursalfk/the-invisible-duct-tape-of-the-internet-backend-tools-you-hear-about-but-never-fully-get-3f0f) — Jun 22, 2026\n- [VS Code Extensions That Code For You](https://dev.to/mursalfk/vs-code-extensions-that-code-for-you-13d6) — Apr 14, 2026\n- [Giving AI Agents “Live Memory” with Aurora Zero-ETL and Redshift Vector Search](https://dev.to/mursalfk/giving-ai-agents-live-memory-with-aurora-zero-etl-and-redshift-vector-search-35gg) — Mar 25, 2026\n- [RIP 12-Digit IDs: The AWS Matrix Has Finally Been Decoded](https://dev.to/aws-builders/rip-12-digit-ids-the-aws-matrix-has-finally-been-decoded-2om9) — Feb 9, 2026
+- [I Let a Bedrock Agent Watch My AWS Bill for 30 Days. Here Is Everything It Caught, Missed, and Made Up](https://dev.to/aws-builders/i-let-a-bedrock-agent-watch-my-aws-bill-for-30-days-here-is-everything-it-caught-missed-and-made-1lde)
+- [30 Tiny React Hooks That Punch Way Above Their Weight](https://dev.to/mursalfk/30-tiny-react-hooks-that-punch-way-above-their-weight-1907)
+- [The Invisible Duct Tape of the Internet: Backend Tools You Hear About But Never Fully Get](https://dev.to/mursalfk/the-invisible-duct-tape-of-the-internet-backend-tools-you-hear-about-but-never-fully-get-3f0f)
+- [VS Code Extensions That Code For You](https://dev.to/mursalfk/vs-code-extensions-that-code-for-you-13d6)
+- [Giving AI Agents “Live Memory” with Aurora Zero-ETL and Redshift Vector Search](https://dev.to/mursalfk/giving-ai-agents-live-memory-with-aurora-zero-etl-and-redshift-vector-search-35gg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
