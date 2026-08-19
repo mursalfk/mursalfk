@@ -1,223 +1,151 @@
-<!-- Top Banner -->
+<!-- ===================================================================
+     mursalfk/mursalfk/README.md
+
+     SETUP
+       1. Commit the header artwork as   assets/github-header.png
+       2. Add                            .github/workflows/profile-assets.yml
+       3. Add repo secret METRICS_TOKEN  (classic PAT: read:user, repo)
+       4. Settings → Actions → General → Read and write permissions
+       5. Run "Profile assets" once from the Actions tab
+
+     WHY NO github-readme-stats CARDS
+       Their public instance is one Vercel deployment serving millions of
+       READMEs and it exhausts its rate limit most days, which is why
+       those cards kept failing. Everything visual here is either native
+       to GitHub (mermaid, tables, alerts) or committed to this repo by
+       an Action, so nothing depends on a third party being up.
+=================================================================== -->
+
+<a href="https://mursalfk.vercel.app">
+  <img src="./assets/github-header.png" width="100%" alt="Mursal Furqan Kumbhar — Full-Stack Engineer" />
+</a>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&background=0d1117&lines=Hey+there!+I'm+Mursal+Furqan;Full-Stack+React+Developer;5th+Year+AWS+Community+Builder+(ML);OSS+Contributor+%7C+Tech+Blogger;Building+robust+UIs+%26+useful+tools" alt="Typing SVG" />
-  </a>
+  <a href="https://mursalfk.vercel.app"><img src="https://img.shields.io/badge/portfolio-c9563a?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mursalfurqan"><img src="https://img.shields.io/badge/linkedin-0a66c2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://dev.to/mursalfk"><img src="https://img.shields.io/badge/dev.to-000000?style=flat-square&logo=devdotto&logoColor=white" /></a>
+  <a href="mailto:mursalfurqan@gmail.com"><img src="https://img.shields.io/badge/email-d14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h1 align="center">Building reliable UIs. Shipping useful tools.</h1>
+> [!NOTE]
+> **Open to full-time engineering roles** — remote or on-site, including
+> US-facing shifts. Pakistan · UTC+5.
+> **[Résumé and case studies →](https://mursalfk.vercel.app/hire)**
 
-<p align="center">
-  <a href="https://mursalfk.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://dev.to/mursalfk">
-    <img src="https://img.shields.io/badge/Dev.to-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
-  <a href="mailto:mursalfurqan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## What I actually built
 
-<p align="center">
-  <a href="https://github.com/mursalfk?tab=followers"><img src="https://img.shields.io/github/followers/mursalfk?label=Followers&style=social"></a>
-  <a href="https://twitter.com/mursalfurqan"><img src="https://img.shields.io/twitter/follow/mursalfurqan?style=social"></a>
-  <a href="https://dev.to/mursalfk"><img src="https://img.shields.io/badge/Dev.to-Articles-black"></a>
-</p>
+At **SISSA mathLab** in Trieste I wrapped high-fidelity simulation backends in
+interfaces researchers could use. Three of them are still online.
 
-<!-- Quick Nav -->
-<p align="center">
-  <a href="#-now">Now</a> •
-  <a href="#-about-me">About</a> •
-  <a href="#-developer-tools--skills">Skills</a> •
-  <a href="#-toolbox-daily-drivers">Toolbox</a> •
-  <a href="#-project-showcases">Projects</a> •
-  <a href="#-github-stats-add-ons">Stats</a> •
-  <a href="#-latest-posts">Posts</a> •
-  <a href="#-certifications--programs">Certifications</a> •
-  <a href="#-reach-me">Reach Me</a> •
-  <a href="#-open-for">Open For</a>
-</p>
+```mermaid
+flowchart LR
+    U["Researcher<br/><i>browser</i>"] --> R{"React UI"}
+    R -->|"REST + WebSocket"| F["Flask API"]
+    F --> S["Reduced-order<br/>solver · Python"]
+    S --> M[("Mesh &<br/>model store")]
+    S -->|"streamed results"| F
+    F --> R
+
+    R -.-> A["argos.sissa.it"]
+    R -.-> B["atlas.sissa.it"]
+    R -.-> C["odyssea.sissa.it"]
+
+    style U fill:#0d1117,stroke:#30363d,color:#c9d1d9
+    style R fill:#7a1f1a,stroke:#c9563a,color:#f0f6fc
+    style F fill:#161b22,stroke:#30363d,color:#c9d1d9
+    style S fill:#161b22,stroke:#30363d,color:#c9d1d9
+    style M fill:#0d1117,stroke:#30363d,color:#8b949e
+    style A fill:#0d1117,stroke:#c9563a,color:#c9563a
+    style B fill:#0d1117,stroke:#c9563a,color:#c9563a
+    style C fill:#0d1117,stroke:#c9563a,color:#c9563a
+```
+
+<table>
+<tr><td width="55%" valign="top">
+
+**Now** — writing on AWS security and IAM tooling · building this portfolio on
+Next.js 16 · exploring Bedrock AgentCore and agent evaluation · running
+AWS User Group Karachi.
+
+**Before SISSA** — led React and React Native at Diya Interactive, shipping
+QriosityNet to 1,000+ users and secure portals for two insurance providers.
+
+</td><td width="45%" valign="top">
+
+| | |
+|---|---|
+| **Papers** | 7 peer-reviewed |
+| **Citations** | 52 · h-index 4 |
+| **Certifications** | 54 |
+| **Roles** | 12 across 3 countries |
+| **Venues** | IEEE · CRC Press · Springer |
+
+</td></tr>
+</table>
+
+<img src="https://skillicons.dev/icons?i=py,react,ts,nextjs,flask,django,aws,docker,postgres,tailwind,git,linux&perline=12" width="100%" />
 
 ---
 
-## 📌 Now
-- Building: **Pixel Alchemy Studio** (desktop image stylisation)
-- Writing: *All About LLMs* series on Dev.to
-- Learning: **Advanced React patterns**, **Flask + async workers**, **Bedrock/Claude** tooling
-- Community: **AWS Community Builder (ML) – Year 5**, mentoring local devs
+<table>
+<tr><td width="50%" valign="top">
 
----
+### Selected work
 
-## 🧐 About Me
+**[ARGOS · ATLAS · Odyssea](https://argos.sissa.it/)**<br>
+<sub>Production simulation servers · Python + React · SISSA</sub>
 
-<img width="32%" align="right" alt="Coding" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"/>
+**[Pixel Alchemy Studio](https://github.com/mursalfk/Pixel-Alchemy-Studio)**<br>
+<sub>Batch cinematic image stylisation, desktop</sub>
 
-- 🎓 **Master’s in Computer Science (Software Engineering track)** at *Sapienza University of Rome* (Matricola 2047419)  
-  - Current **thesis**: *Real-Time Weed Detection on-the-go Using Computer Vision and Lightweight Deep Learning over Smartphones* (Precision Farming)  
-  - Focus: Deep Learning, Computer Vision, Model Compression, Mobile Deployment  
+**[SecureEntry](https://github.com/mursalfk/secureentry_flask)**<br>
+<sub>Face + voice dual-auth intrusion alarm</sub>
 
-- 🎓 **Bachelor’s in Computer Systems Engineering** from *Mehran University of Engineering & Technology (MUET) Jamshoro, Pakistan* — Class of 2020 (F-16 batch)  
+**[ASL CV GUI](https://github.com/mursalfk/asl_cv_gui)**<br>
+<sub>Real-time ASL prediction with Mediapipe</sub>
 
-- 💼 **_Former_ Research Fellow at [SISSA](https://sissa.it/)** — working on AI/ML applications  
+</td><td width="50%" valign="top">
 
-- 🚀 **AWS Community Builder (Machine Learning category)** — currently in my **5th year** in the program  
-  - Founder of **AWS User Group Karachi**  
-  - Mentor, speaker, and active in the global AWS community  
+### Writing
 
-- 🌍 **Open Source Contributor** — React, Django, Flask, TensorFlow/Keras projects, and custom ML pipelines  
-
-- ✍️ **Technical Writer / Blogger**  
-  - Writing detailed articles on **AWS, Machine Learning, LLMs, Knowledge Graphs, and Web Development** on [Dev.to](https://dev.to/mursalfk)  
-  - Series: *All About LLMs*, *Smart Image Tagging on AWS*, *Graph Neural Networks & Knowledge Graphs on AWS*  
-
-- 🛠️ **Technical Skills**:  
-  - **Frontend**: React.js, React Native, Tailwind, Bootstrap  
-  - **Backend**: Flask, Django, Node.js  
-  - **Databases**: Firebase, MongoDB, PostgreSQL  
-  - **DevOps & Cloud**: AWS (SageMaker, Lambda, Step Functions, Textract, Bedrock), Docker, GitHub Actions  
-  - **ML/DL**: TensorFlow/Keras, PyTorch, Computer Vision, NLP, Ensemble Methods  
-
-- 🏆 **Community & Leadership Roles**:  
-  - **Former** Microsoft Learn Student Ambassador (MLSA)  
-  - **Former** Treasurer, IEEE WIE Karachi Section  
-  - **Former** Chairperson, ACM MUET Student Chapter  
-  - **Former** Chairperson, IEEE Computer Society MUET Jamshoro  
-  - **Former** GitKraken Ambassador  
-  - **Former** Rotaract 3271 Co-Chair  
-  - **Former** Volunteer for Special Olympics Berlin 2023  
-  - **Former** SOS Village Volunteer  
-  - and more  
-
-- 🌙 Fun fact: My name is on NASA’s *Perseverance Rover* 🚀👽  
-
----
-
-## 🛠 Developer Tools / Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,py,flask,django,aws,firebase,mongodb,postgres,git,github,linux,docker,html,css,bootstrap,tailwind" />
-</p>
-
----
-
-## 🧰 Toolbox (Daily Drivers)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,bash,webpack,eslint,prettier,npm,pnpm,vercel" />
-</p>
-
----
-
-## 🎯 Project Showcases
-
-- 🔐 **SecureEntry** — Dual-authentication intrusion alarm (Face + Voice)  
-  ➜ **Repo:** [mursalfk/secureentry_flask](https://github.com/mursalfk/secureentry_flask)
-
-- 🌱 **Pixel Alchemy Studio** — A desktop app for one-click, cinematic image stylisation — from Cyberpunk neon nights to Ghibli watercolours, Mughal miniatures, and Hand-Painted vibes. Batch it, tweak it, preview it.  
-  ➜ **Repo:** [mursalfk/Pixel-Alchemy-Studio](https://github.com/mursalfk/Pixel-Alchemy-Studio)
-
-- 📷 **ASL CV based GUI** — Real-time ASL letter prediction using computer vision. This GUI, powered by Mediapipe and a pre-trained model, interprets hand gestures for enhanced communication with the hearing-impaired. Features include a user-friendly interface, ASL reference guide, and real-time prediction. Demo video and contributors' LinkedIn profiles included.  
-  ➜ **Repo:** [mursalfk/asl_cv_gui](https://github.com/mursalfk/asl_cv_gui)
-
-<p align="center">
-  <a href="https://github.com/mursalfk/secureentry_flask">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mursalfk&repo=secureentry_flask&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/mursalfk/Pixel-Alchemy-Studio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mursalfk&repo=Pixel-Alchemy-Studio&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-## 📈 GitHub Stats Add-ons
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mursalfk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=mursalfk&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=mursalfk&theme=tokyonight&hide_border=true" alt="streak stats"/>
-  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=mursalfk&theme=react-dark&hide_border=true&bg_color=1F222E&line=539af4&point=ffffff&area=true" alt="activity graph"/>
-</p>
-
----
-
-## 📝 Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Your Integrity Checks Are Watching the Wrong Layer](https://dev.to/aws-builders/your-integrity-checks-are-watching-the-wrong-layer-31ii) — Aug 17, 2026\n- [Same AWS Error, Two Answers: I Built a Tool That Stops Guessing at IAM](https://dev.to/aws-builders/same-aws-error-two-answers-i-built-a-tool-that-stops-guessing-at-iam-2lf6) — Aug 10, 2026\n- [My Robot Accountant Got an Eviction Notice. So We Moved: Migrating from Bedrock Agents Classic to AgentCore](https://dev.to/aws-builders/my-robot-accountant-got-an-eviction-notice-so-we-moved-migrating-from-bedrock-agents-classic-to-4bjo) — Jul 31, 2026\n- [I Let a Bedrock Agent Watch My AWS Bill for 30 Days. Here Is Everything It Caught, Missed, and Made Up](https://dev.to/aws-builders/i-let-a-bedrock-agent-watch-my-aws-bill-for-30-days-here-is-everything-it-caught-missed-and-made-1lde) — Jul 5, 2026\n- [30 Tiny React Hooks That Punch Way Above Their Weight](https://dev.to/mursalfk/30-tiny-react-hooks-that-punch-way-above-their-weight-1907) — Jun 26, 2026
+- [Your Integrity Checks Are Watching the Wrong Layer](https://dev.to/aws-builders/your-integrity-checks-are-watching-the-wrong-layer-31ii)
+- [Same AWS Error, Two Answers: A Tool That Stops Guessing at IAM](https://dev.to/aws-builders/same-aws-error-two-answers-i-built-a-tool-that-stops-guessing-at-iam-2lf6)
+- [Migrating from Bedrock Agents Classic to AgentCore](https://dev.to/aws-builders/my-robot-accountant-got-an-eviction-notice-so-we-moved-migrating-from-bedrock-agents-classic-to-4bjo)
+- [I Let a Bedrock Agent Watch My AWS Bill for 30 Days](https://dev.to/aws-builders/i-let-a-bedrock-agent-watch-my-aws-bill-for-30-days-here-is-everything-it-caught-missed-and-made-1lde)
 <!-- BLOG-POST-LIST:END -->
 
----
+<sub>More at **[dev.to/mursalfk](https://dev.to/mursalfk)**</sub>
 
-## 🎓 Certifications & Programs
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS%20Community%20Builder-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <a href="https://www.qwiklabs.com/public_profiles/e7c9d521-8506-4a4a-bc2e-c718fc91744e"><img src="https://img.shields.io/badge/Qwiklabs-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/></a>
-  <a href="https://docs.microsoft.com/en-us/users/mursalfurqan/"><img src="https://img.shields.io/badge/Microsoft%20Learn-2F2F2F?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
-</p>
+</td></tr>
+</table>
 
 ---
 
-## 📫 Reach Me
-<p align="left">
-  <a href="mailto:mursalfurqan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://mursal.me">
-    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mursalfurqan">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/mursalfurqan">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://dev.to/mursalfk">
-    <img src="https://img.shields.io/badge/Dev.to-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
-</p>
+### Where the time goes
 
----
+<!-- Generated by .github/workflows/profile-assets.yml and committed to
+     this repo, so it renders even when third-party services are down. -->
+<img src="./assets/metrics.svg" width="100%" alt="Contribution calendar and language breakdown" />
 
-## 🤝 Open For
-<p>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-22c55e?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Available%20for-Speaking-3b82f6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Available%20for-Mentoring-f59e0b?style=for-the-badge"/>
-</p>
-
----
-
-<!-- 🐍 Snake animation — works after snake.yml runs -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mursalfk/mursalfk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
-<!-- Fun Zone (kept collapsible so the page stays professional by default) -->
 <details>
-  <summary>🎧 Fun Zone — click to expand</summary>
-  <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-  </p>
-  <p align="center">
-    <img src="https://novatorem.vercel.app/api/spotify" width="400" alt="Now Playing on Spotify"/>
-  </p>
-  <p align="center">
-    <a href="https://holopin.io/@mursalfk">
-      <img src="https://holopin.io/api/user/board?user=mursalfk" alt="Holopin Badges"/>
-    </a>
-  </p>
+<summary><b>Coding habits and topics</b></summary>
+<br>
+<img src="./assets/metrics-habits.svg" width="100%" alt="Coding habits" />
 </details>
 
----
+<!-- Theme-adaptive: GitHub serves the right one automatically. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/mursalfk/mursalfk/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mursalfk/mursalfk/output/snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/mursalfk/mursalfk/output/snake-dark.svg" width="100%" alt="Contribution snake" />
+</picture>
 
-[![An image of @mursalfk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mursalfk)](https://holopin.io/@mursalfk)
-
----
-
-## 👀 Profile Views
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mursalfk&color=blueviolet" alt="profile views"/>
+<details>
+<summary><sub>fun zone</sub></summary>
+<br>
+<p align="center">
+  <a href="https://holopin.io/@mursalfk"><img src="https://holopin.me/mursalfk" width="60%" /></a>
 </p>
-
-<h4 align="center"> Show some 💖, consider ⭐ing a repo!</h4>
+<sub>My name is on NASA's Perseverance rover.</sub>
+</details>
