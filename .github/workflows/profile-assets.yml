@@ -1,163 +1,54 @@
-<!-- ===================================================================
-     mursalfk/mursalfk/README.md
+# FILE PATH: mursalfk/mursalfk/.github/workflows/profile-assets.yml
+#
+# Snake + blog posts. Neither needs a PAT, so if this one fails the
+# problem is the file or the repo settings, not your token.
+#
+# ASCII only, everything quoted. The previous version used middle-dot
+# and box-drawing characters in job names and comments; harmless in
+# theory, but not worth risking while debugging a parse error.
 
-     ASSETS TO COMMIT
-       assets/github-header.png     (already done)
-       assets/stats-dark.png        from assets-stats-dark.png
-       assets/stats-light.png       from assets-stats-light.png
+name: "Profile assets"
 
-     Section numbering, rules and mono labels mirror mursalfk.vercel.app,
-     so the profile and the portfolio read as one identity.
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
 
-     Everything here renders from GitHub itself or from shields.io.
-     Nothing depends on a rate-limited card service.
-=================================================================== -->
+permissions:
+  contents: write
 
-<a href="https://mursalfk.vercel.app">
-  <img src="./assets/github-header.png" width="100%" alt="Mursal Furqan Kumbhar — Full-Stack Engineer" />
-</a>
+jobs:
+  snake:
+    name: "Contribution snake"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Generate snake"
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: "mursalfk"
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-light.svg?palette=github-light
 
-<p align="center">
-  <a href="https://mursalfk.vercel.app"><img src="https://img.shields.io/badge/portfolio-c9563a?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mursalfurqan"><img src="https://img.shields.io/badge/linkedin-27272a?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://dev.to/mursalfk"><img src="https://img.shields.io/badge/dev.to-27272a?style=flat-square&logo=devdotto&logoColor=white" /></a>
-  <a href="mailto:mursalfurqan@gmail.com"><img src="https://img.shields.io/badge/email-27272a?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+      - name: "Push to output branch"
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: "output"
+          build_dir: "dist"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-> [!NOTE]
-> **Open to full-time engineering roles** — remote or on-site, including US-facing shifts.
-> Pakistan · UTC+5 · **[Résumé and case studies →](https://mursalfk.vercel.app/hire)**
+  blog:
+    name: "Latest posts"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Checkout"
+        uses: actions/checkout@v4
 
-<samp>
-
-`01` &nbsp;**W H A T &nbsp; I &nbsp; B U I L T**
-
-</samp>
-
----
-
-At **SISSA mathLab** in Trieste I wrapped high-fidelity simulation backends in
-interfaces researchers could actually use. Three of them are still online.
-
-```mermaid
-%%{init: {"theme":"base","themeVariables":{
-  "primaryColor":"#c9563a","primaryTextColor":"#ffffff","primaryBorderColor":"#b3421e",
-  "lineColor":"#9a8f8c","secondaryColor":"#f5f1ef","tertiaryColor":"#faf8f7",
-  "fontFamily":"IBM Plex Mono, ui-monospace, monospace","fontSize":"13px"}}}%%
-flowchart LR
-    U["Researcher<br/>browser"] --> R{{"React UI"}}
-    R -->|"REST + WebSocket"| F["Flask API"]
-    F --> S["Reduced-order solver<br/>Python"]
-    S --> M[("Mesh &amp; model store")]
-    S -->|"streamed results"| F
-    F --> R
-    R -.-> A(["argos.sissa.it"])
-    R -.-> B(["atlas.sissa.it"])
-    R -.-> C(["odyssea.sissa.it"])
-```
-
-<sub>Theme variables are set so this renders correctly in **both** GitHub
-themes. Hardcoded dark fills look like black boxes to anyone on light mode.</sub>
-
-<samp>
-
-`02` &nbsp;**S P E C I F I C A T I O N**
-
-</samp>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./assets/stats-dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.png" />
-  <img src="./assets/stats-dark.png" width="100%" alt="7 papers · 52 citations · 54 certifications · 12 roles · 3 live servers" />
-</picture>
-
-<samp>
-
-`03` &nbsp;**S T A C K**
-
-</samp>
-
----
-
-<img src="https://skillicons.dev/icons?i=py,react,ts,nextjs,flask,django,aws,docker,postgres,tailwind,git,linux&perline=12" width="100%" />
-
-<samp>
-
-`04` &nbsp;**S E L E C T E D &nbsp; W O R K**
-
-</samp>
-
----
-
-<table>
-<tr><td width="50%" valign="top">
-
-**[ARGOS · ATLAS · Odyssea](https://argos.sissa.it/)**<br>
-<sub>Production simulation servers · Python + React · SISSA</sub>
-
-**[Pixel Alchemy Studio](https://github.com/mursalfk/Pixel-Alchemy-Studio)**<br>
-<sub>Batch cinematic image stylisation, desktop</sub>
-
-**[SecureEntry](https://github.com/mursalfk/secureentry_flask)**<br>
-<sub>Face + voice dual-auth intrusion alarm</sub>
-
-**[ASL CV GUI](https://github.com/mursalfk/asl_cv_gui)**<br>
-<sub>Real-time ASL prediction with Mediapipe</sub>
-
-</td><td width="50%" valign="top">
-
-**Now** — writing on AWS security and IAM tooling · building this portfolio on
-Next.js 16 · exploring Bedrock AgentCore and agent evaluation · running AWS
-User Group Karachi.
-
-**Before SISSA** — led React and React Native at Diya Interactive, shipping
-QriosityNet to 1,000+ users and secure portals for two insurance providers.
-
-</td></tr>
-</table>
-
-<samp>
-
-`05` &nbsp;**W R I T I N G**
-
-</samp>
-
----
-
-<!-- BLOG-POST-LIST:START -->
-- [Your Integrity Checks Are Watching the Wrong Layer](https://dev.to/aws-builders/your-integrity-checks-are-watching-the-wrong-layer-31ii)
-- [Same AWS Error, Two Answers: A Tool That Stops Guessing at IAM](https://dev.to/aws-builders/same-aws-error-two-answers-i-built-a-tool-that-stops-guessing-at-iam-2lf6)
-- [Migrating from Bedrock Agents Classic to AgentCore](https://dev.to/aws-builders/my-robot-accountant-got-an-eviction-notice-so-we-moved-migrating-from-bedrock-agents-classic-to-4bjo)
-- [I Let a Bedrock Agent Watch My AWS Bill for 30 Days](https://dev.to/aws-builders/i-let-a-bedrock-agent-watch-my-aws-bill-for-30-days-here-is-everything-it-caught-missed-and-made-1lde)
-<!-- BLOG-POST-LIST:END -->
-
-<sub>More at **[dev.to/mursalfk](https://dev.to/mursalfk)**</sub>
-
-<samp>
-
-`06` &nbsp;**A C T I V I T Y**
-
-</samp>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/mursalfk/mursalfk/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mursalfk/mursalfk/output/snake-light.svg" />
-  <img src="https://raw.githubusercontent.com/mursalfk/mursalfk/output/snake-dark.svg" width="100%" alt="Contribution snake" />
-</picture>
-
-<!-- Once the metrics workflow succeeds, uncomment:
-<img src="./assets/metrics.svg" width="100%" alt="Contribution calendar and languages" />
--->
-
-<details>
-<summary><sub>fun zone</sub></summary>
-<br>
-<p align="center">
-  <a href="https://holopin.io/@mursalfk"><img src="https://holopin.me/mursalfk" width="60%" /></a>
-</p>
-<sub>My name is on NASA's Perseverance rover.</sub>
-</details>
+      - name: "Pull dev.to feed"
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://dev.to/feed/mursalfk"
+          max_post_count: 4
+          template: "- [$title]($url)<br>"
