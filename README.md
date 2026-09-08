@@ -108,7 +108,9 @@ QriosityNet to 1,000+ users and secure portals for two insurance providers.
 
 ### Writing
 
-<!-- BLOG-POST-LIST:START -->- [Your Integrity Checks Are Watching the Wrong Layer](https://dev.to/aws-builders/your-integrity-checks-are-watching-the-wrong-layer-31ii)<br>- [Same AWS Error, Two Answers: I Built a Tool That Stops Guessing at IAM](https://dev.to/aws-builders/same-aws-error-two-answers-i-built-a-tool-that-stops-guessing-at-iam-2lf6)<br>- [My Robot Accountant Got an Eviction Notice. So We Moved: Migrating from Bedrock Agents Classic to AgentCore](https://dev.to/aws-builders/my-robot-accountant-got-an-eviction-notice-so-we-moved-migrating-from-bedrock-agents-classic-to-4bjo)<br>- [I Let a Bedrock Agent Watch My AWS Bill for 30 Days. Here Is Everything It Caught, Missed, and Made Up](https://dev.to/aws-builders/i-let-a-bedrock-agent-watch-my-aws-bill-for-30-days-here-is-everything-it-caught-missed-and-made-1lde)<br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Your Integrity Checks Are Watching the Wrong Layer](https://dev.to/aws-builders/your-integrity-checks-are-watching-the-wrong-layer-31ii) — Aug 17, 2026\n- [Same AWS Error, Two Answers: I Built a Tool That Stops Guessing at IAM](https://dev.to/aws-builders/same-aws-error-two-answers-i-built-a-tool-that-stops-guessing-at-iam-2lf6) — Aug 10, 2026\n- [My Robot Accountant Got an Eviction Notice. So We Moved: Migrating from Bedrock Agents Classic to AgentCore](https://dev.to/aws-builders/my-robot-accountant-got-an-eviction-notice-so-we-moved-migrating-from-bedrock-agents-classic-to-4bjo) — Jul 31, 2026\n- [I Let a Bedrock Agent Watch My AWS Bill for 30 Days. Here Is Everything It Caught, Missed, and Made Up](https://dev.to/aws-builders/i-let-a-bedrock-agent-watch-my-aws-bill-for-30-days-here-is-everything-it-caught-missed-and-made-1lde) — Jul 5, 2026\n- [30 Tiny React Hooks That Punch Way Above Their Weight](https://dev.to/mursalfk/30-tiny-react-hooks-that-punch-way-above-their-weight-1907) — Jun 26, 2026
+<!-- BLOG-POST-LIST:END -->
 
 <sub>More at **[dev.to/mursalfk](https://dev.to/mursalfk)**</sub>
 
