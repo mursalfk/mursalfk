@@ -108,7 +108,9 @@ QriosityNet to 1,000+ users and secure portals for two insurance providers.
 
 ### Writing
 
-<!-- BLOG-POST-LIST:START -->- [Out-of-Order Events Break Your AI Agent on AWS](https://dev.to/aws-builders/when-an-ai-agent-reads-your-events-out-of-order-and-bills-the-wrong-customer-264j)<br>- [AWS Lambda Durable Functions and the Replay Bug in Human-in-the-Loop Agents](https://dev.to/aws-builders/aws-lambda-durable-functions-and-the-replay-bug-in-human-in-the-loop-agents-ki8)<br>- [I Tried to Break My Robot Accountant &lpar;So Nobody Else Could&rpar;](https://dev.to/aws-builders/i-tried-to-break-my-robot-accountant-so-nobody-else-could-399n)<br>- [Your Integrity Checks Are Watching the Wrong Layer](https://dev.to/aws-builders/your-integrity-checks-are-watching-the-wrong-layer-31ii)<br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [AWS Lambda Durable Functions and the Replay Bug in Human-in-the-Loop Agents](https://dev.to/aws-builders/aws-lambda-durable-functions-and-the-replay-bug-in-human-in-the-loop-agents-ki8) — Sep 27, 2026\n- [I Tried to Break My Robot Accountant (So Nobody Else Could)](https://dev.to/aws-builders/i-tried-to-break-my-robot-accountant-so-nobody-else-could-399n) — Sep 21, 2026\n- [Your Integrity Checks Are Watching the Wrong Layer](https://dev.to/aws-builders/your-integrity-checks-are-watching-the-wrong-layer-31ii) — Aug 17, 2026\n- [Same AWS Error, Two Answers: I Built a Tool That Stops Guessing at IAM](https://dev.to/aws-builders/same-aws-error-two-answers-i-built-a-tool-that-stops-guessing-at-iam-2lf6) — Aug 10, 2026\n- [My Robot Accountant Got an Eviction Notice. So We Moved: Migrating from Bedrock Agents Classic to AgentCore](https://dev.to/aws-builders/my-robot-accountant-got-an-eviction-notice-so-we-moved-migrating-from-bedrock-agents-classic-to-4bjo) — Jul 31, 2026
+<!-- BLOG-POST-LIST:END -->
 
 <sub>More at **[dev.to/mursalfk](https://dev.to/mursalfk)**</sub>
 
