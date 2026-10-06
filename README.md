@@ -108,13 +108,7 @@ QriosityNet to 1,000+ users and secure portals for two insurance providers.
 
 ### Writing
 
-<!-- BLOG-POST-LIST:START -->
-- [Out-of-Order Events Break Your AI Agent on AWS](https://dev.to/aws-builders/when-an-ai-agent-reads-your-events-out-of-order-and-bills-the-wrong-customer-264j)
-- [AWS Lambda Durable Functions and the Replay Bug in Human-in-the-Loop Agents](https://dev.to/aws-builders/aws-lambda-durable-functions-and-the-replay-bug-in-human-in-the-loop-agents-ki8)
-- [I Tried to Break My Robot Accountant &lpar;So Nobody Else Could&rpar;](https://dev.to/aws-builders/i-tried-to-break-my-robot-accountant-so-nobody-else-could-399n)
-- [Your Integrity Checks Are Watching the Wrong Layer](https://dev.to/aws-builders/your-integrity-checks-are-watching-the-wrong-layer-31ii)
-- [Same AWS Error, Two Answers: I Built a Tool That Stops Guessing at IAM](https://dev.to/aws-builders/same-aws-error-two-answers-i-built-a-tool-that-stops-guessing-at-iam-2lf6)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Can You Gaslight an AI About AWS? I Measured It](https://dev.to/aws-builders/can-you-gaslight-an-ai-about-aws-i-measured-itlock-these-3dki)<br>- [Out-of-Order Events Break Your AI Agent on AWS](https://dev.to/aws-builders/when-an-ai-agent-reads-your-events-out-of-order-and-bills-the-wrong-customer-264j)<br>- [AWS Lambda Durable Functions and the Replay Bug in Human-in-the-Loop Agents](https://dev.to/aws-builders/aws-lambda-durable-functions-and-the-replay-bug-in-human-in-the-loop-agents-ki8)<br>- [I Tried to Break My Robot Accountant &lpar;So Nobody Else Could&rpar;](https://dev.to/aws-builders/i-tried-to-break-my-robot-accountant-so-nobody-else-could-399n)<br><!-- BLOG-POST-LIST:END -->
 
 <sub>More at **[dev.to/mursalfk](https://dev.to/mursalfk)**</sub>
 
