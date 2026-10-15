@@ -1,0 +1,56 @@
+# .github/workflows/last-edited.yml
+name: Last edited stamp
+
+on:
+  schedule:
+    - cron: "0 1 * * *" # Daily 01:00 UTC = 06:00 PKT
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-writes
+  cancel-in-progress: false
+
+jobs:
+  stamp:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update Last Edited line
+        env:
+          COMMIT_NAME: ${{ vars.COMMIT_NAME }}
+          COMMIT_EMAIL: ${{ vars.COMMIT_EMAIL }}
+        run: |
+          export STAMP="$(TZ=Asia/Karachi date '+%B %d, %Y')"
+
+          python3 - <<'PY'
+          import os, re, pathlib
+          p = pathlib.Path("README.md")
+          text = p.read_text(encoding="utf-8")
+          block = (
+              "<!-- LAST-EDITED:START -->\n"
+              f"[Last Edited On: {os.environ['STAMP']}]\n"
+              "<!-- LAST-EDITED:END -->"
+          )
+          pat = re.compile(r"<!-- LAST-EDITED:START -->.*?<!-- LAST-EDITED:END -->", re.S)
+          if pat.search(text):
+              text = pat.sub(lambda m: block, text)
+          else:
+              text = text.rstrip("\n") + "\n\n" + block + "\n"
+          p.write_text(text, encoding="utf-8")
+          PY
+
+          if git diff --quiet -- README.md; then
+            echo "No change."
+            exit 0
+          fi
+
+          git config user.name "${COMMIT_NAME:-github-actions[bot]}"
+          git config user.email "${COMMIT_EMAIL:-41898282+github-actions[bot]@users.noreply.github.com}"
+          git add README.md
+          git commit -m "chore: last edited $(TZ=Asia/Karachi date +%F)"
+          git pull --rebase
+          git push
