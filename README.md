@@ -115,7 +115,9 @@ QriosityNet to 1,000+ users and secure portals for two insurance providers.
 
 ### Writing
 
-<!-- BLOG-POST-LIST:START -->- [Can You Gaslight an AI About AWS? I Built a Game to Find Out](https://dev.to/aws-builders/can-you-gaslight-an-ai-about-aws-i-built-a-game-to-find-out-4o03)<br>- [Python 3.15 just dropped. Here&#39;s everything that changed from 3.14](https://dev.to/mursalfk/python-315-just-dropped-heres-everything-that-changed-from-314-36kj)<br>- [Out-of-Order Events Break Your AI Agent on AWS](https://dev.to/aws-builders/when-an-ai-agent-reads-your-events-out-of-order-and-bills-the-wrong-customer-264j)<br>- [AWS Lambda Durable Functions and the Replay Bug in Human-in-the-Loop Agents](https://dev.to/aws-builders/aws-lambda-durable-functions-and-the-replay-bug-in-human-in-the-loop-agents-ki8)<br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Can You Gaslight an AI About AWS? I Built a Game to Find Out](https://dev.to/aws-builders/can-you-gaslight-an-ai-about-aws-i-built-a-game-to-find-out-4o03) — Oct 13, 2026\n- [Python 3.15 just dropped. Here's everything that changed from 3.14](https://dev.to/mursalfk/python-315-just-dropped-heres-everything-that-changed-from-314-36kj) — Oct 10, 2026\n- [Out-of-Order Events Break Your AI Agent on AWS](https://dev.to/aws-builders/when-an-ai-agent-reads-your-events-out-of-order-and-bills-the-wrong-customer-264j) — Sep 29, 2026\n- [AWS Lambda Durable Functions and the Replay Bug in Human-in-the-Loop Agents](https://dev.to/aws-builders/aws-lambda-durable-functions-and-the-replay-bug-in-human-in-the-loop-agents-ki8) — Sep 27, 2026\n- [I Tried to Break My Robot Accountant (So Nobody Else Could)](https://dev.to/aws-builders/i-tried-to-break-my-robot-accountant-so-nobody-else-could-399n) — Sep 21, 2026
+<!-- BLOG-POST-LIST:END -->
 
 <sub>More at **[dev.to/mursalfk](https://dev.to/mursalfk)**</sub>
 
