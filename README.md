@@ -115,13 +115,7 @@ QriosityNet to 1,000+ users and secure portals for two insurance providers.
 
 ### Writing
 
-<!-- BLOG-POST-LIST:START -->
-- [The Ledger That Charged Twice: S3 Lambda Idempotency](https://dev.to/aws-builders/the-ledger-that-charged-twice-s3-lambda-idempotency-3d4g)
-- [Can You Gaslight an AI About AWS? I Built a Game to Find Out](https://dev.to/aws-builders/can-you-gaslight-an-ai-about-aws-i-built-a-game-to-find-out-4o03)
-- [Python 3.15 just dropped. Here&#39;s everything that changed from 3.14](https://dev.to/mursalfk/python-315-just-dropped-heres-everything-that-changed-from-314-36kj)
-- [Out-of-Order Events Break Your AI Agent on AWS](https://dev.to/aws-builders/when-an-ai-agent-reads-your-events-out-of-order-and-bills-the-wrong-customer-264j)
-- [AWS Lambda Durable Functions and the Replay Bug in Human-in-the-Loop Agents](https://dev.to/aws-builders/aws-lambda-durable-functions-and-the-replay-bug-in-human-in-the-loop-agents-ki8)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [The Ledger That Charged Twice: S3 Lambda Idempotency](https://dev.to/aws-builders/the-ledger-that-charged-twice-s3-lambda-idempotency-3d4g)<br>- [Can You Gaslight an AI About AWS? I Built a Game to Find Out](https://dev.to/aws-builders/can-you-gaslight-an-ai-about-aws-i-built-a-game-to-find-out-4o03)<br>- [Python 3.15 just dropped. Here&#39;s everything that changed from 3.14](https://dev.to/mursalfk/python-315-just-dropped-heres-everything-that-changed-from-314-36kj)<br>- [Out-of-Order Events Break Your AI Agent on AWS](https://dev.to/aws-builders/when-an-ai-agent-reads-your-events-out-of-order-and-bills-the-wrong-customer-264j)<br><!-- BLOG-POST-LIST:END -->
 
 <sub>More at **[dev.to/mursalfk](https://dev.to/mursalfk)**</sub>
 
