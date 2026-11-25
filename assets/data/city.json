@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T12:29:23.811930+00:00",
+  "generated_at": "2026-11-25T11:17:04.405181+00:00",
   "weeks": [
     [
       {
@@ -1563,9 +1563,9 @@
     ]
   ],
   "stats": {
-    "total_last_year": 186,
+    "total_last_year": 192,
     "followers": 131,
-    "merged_prs": 124,
+    "merged_prs": 125,
     "stars": 236,
     "forks": 39
   }
