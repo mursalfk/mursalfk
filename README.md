@@ -115,13 +115,7 @@ QriosityNet to 1,000+ users and secure portals for two insurance providers.
 
 ### Writing
 
-<!-- BLOG-POST-LIST:START -->
-- [Prompt Regression Testing for LLM Apps: A Free CI Gate, Tested on 3 Real Models](https://dev.to/aws-builders/prompt-regression-testing-for-llm-apps-a-free-ci-gate-tested-on-3-real-models-1n22)
-- [How to Master AWS for AI?](https://dev.to/aws-builders/how-to-master-aws-for-ai-3la4)
-- [The Ledger That Charged Twice: S3 Lambda Idempotency](https://dev.to/aws-builders/the-ledger-that-charged-twice-s3-lambda-idempotency-3d4g)
-- [Can You Gaslight an AI About AWS? I Built a Game to Find Out](https://dev.to/aws-builders/can-you-gaslight-an-ai-about-aws-i-built-a-game-to-find-out-4o03)
-- [Python 3.15 just dropped. Here&#39;s everything that changed from 3.14](https://dev.to/mursalfk/python-315-just-dropped-heres-everything-that-changed-from-314-36kj)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Prompt Regression Testing for LLM Apps: A Free CI Gate, Tested on 3 Real Models](https://dev.to/aws-builders/prompt-regression-testing-for-llm-apps-a-free-ci-gate-tested-on-3-real-models-1n22)<br>- [How to Master AWS for AI?](https://dev.to/aws-builders/how-to-master-aws-for-ai-3la4)<br>- [The Ledger That Charged Twice: S3 Lambda Idempotency](https://dev.to/aws-builders/the-ledger-that-charged-twice-s3-lambda-idempotency-3d4g)<br>- [Can You Gaslight an AI About AWS? I Built a Game to Find Out](https://dev.to/aws-builders/can-you-gaslight-an-ai-about-aws-i-built-a-game-to-find-out-4o03)<br><!-- BLOG-POST-LIST:END -->
 
 <sub>More at **[dev.to/mursalfk](https://dev.to/mursalfk)**</sub>
 
